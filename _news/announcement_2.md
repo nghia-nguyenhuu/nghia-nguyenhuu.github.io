@@ -2,8 +2,8 @@
 layout: post
 title: Welcome to Electromechanics course!
 date: 2024-09-03 16:11:00-0400
-inline: false
-related_posts: false
+inline: true
+related_posts: true
 ---
 
 Hi everyone,
