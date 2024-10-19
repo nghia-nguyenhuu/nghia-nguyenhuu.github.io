@@ -4,7 +4,6 @@ permalink: /teaching/
 title: teaching
 description: Courses I have taught in the past and currently teach.
 > My My teaching philosophy focuses on real-world learning that helps students apply knowledge through hands-on tasks and teamwork. I encourage critical thinking, problem-solving, and lifelong learning, guiding students to discover ideas on their own. Inclusivity and diversity are important in my teaching, making sure every student feels valued and supported. By connecting ideas from different subjects, I help students link theory to practice and build the skills they need for success in their careers.
->
 nav: true
 nav_order: 8
 ---
