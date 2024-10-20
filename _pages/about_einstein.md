@@ -5,4 +5,4 @@
 <li> Erasmus Mundus Master, Institut National des Sciences Appliquées (INSA) de Lyon, France </li>
 <li> Erasmus Mundus Master, Universitat Politècnica de Catalunya - UPC, Spain </li>
 <li> B.Eng., Can Tho University, Vietnam </li>
-<p>Email: nghia.nguyen-huu@dal.ca<p>
+<p>Email:<strong>nghia.nguyen-huu@dal.ca</strong><p>
