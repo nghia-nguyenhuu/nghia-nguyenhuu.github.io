@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: list of my publications <p>*corresponding author<p>
+description: <a href="https://scholar.google.com/citations?user=LjcgWVcAAAAJ&hl=en">A complete list of my publications</a> <p>*corresponding author<p>
 nav: true
 nav_order: 2
 ---
