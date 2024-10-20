@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: A complete list of my publications
+description: Publications listed below, *denotes corresponding author.
 nav: true
 nav_order: 2
 ---
