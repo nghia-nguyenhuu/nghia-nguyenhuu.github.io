@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Advanced photonics: biosensors, self-powered sensors, and filtering
+description: Advanced photonics.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
