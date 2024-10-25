@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Innovative Nanophotonics: Self-Powered Sensors, Biosensing, and Precision Filtering for Next-Generation Applications
+description: Advanced Photonics: Biosensors, Self-Powered Sensors, and Filtering
 nav: true
 nav_order: 3
 display_categories: [work, fun]
