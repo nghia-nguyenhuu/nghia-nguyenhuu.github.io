@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Photonics for Sensing and Energy.
+description: Cutting-Edge Photonic Technologies.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
