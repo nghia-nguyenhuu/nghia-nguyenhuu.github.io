@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Cutting-edge photonics: biosensing, energy, and filtering device.
+description: Photonics for Sensing and Energy.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
