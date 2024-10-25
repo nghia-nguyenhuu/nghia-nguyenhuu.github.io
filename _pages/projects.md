@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Advanced photonics.
+description: Cutting-edge photonics: biosensing, energy, and filtering device.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
