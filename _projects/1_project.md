@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Integrated Nanophotonic Polarizer-Filters for Compact Optical Systems
+description: Polarizers and color filters
+img: assets/img/P1_1.jpg
 importance: 1
 category: work
 related_publications: true
