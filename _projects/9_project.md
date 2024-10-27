@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Vietnamese School Society of Halifax: A Cultural Journey for Youth
+title: Vietnamese School Society in Halifax
 description: Vietnamese Roots, Canadian Future
 img: assets/img/PF_1.jpg
 importance: 4
