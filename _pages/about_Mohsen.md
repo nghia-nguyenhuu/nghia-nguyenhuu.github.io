@@ -1,5 +1,3 @@
 <strong>Mohsen Fallah, M.Sc.</strong>
 <li> Ph.D. student (Winter 2025), co-supervised with <a href="https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/cada-michael.html">Prof. Michael Cada</a> </li>
-<li>M.Sc., Islamic Azad University, Iran</li>
-<li>B.Eng., Islamic Azad University, Iran</li>
-<p>Research topics: Renewable energy<p>
+<p>I hold a master’s degree in Electrical Engineering from the Islamic Azad University of Bandar Abbas, specializing in renewable energy applications for hydrogen production and energy storage through water electrolysis. My research interests include renewable energy storage technologies, such as hydrogen and lithium-ion batteries, as well as geothermal energy optimization and other renewable energies. I have extensive experience in overseeing electrical systems, maintaining industrial electrical equipment, and developing energy optimization solutions. With a strong foundation in both the theoretical and practical aspects of electrical engineering, my goal is to contribute to future research in the integration and optimization of sustainable energy systems.<p>
