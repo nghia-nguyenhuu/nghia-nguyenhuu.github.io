@@ -7,7 +7,7 @@ importance: 4
 category: fun
 ---
 
-The Vietnamese School Society in Halifax (VSH), a non-profit founded and managed voluntarily by Dr. Nghia Nguyen-Huu and licensed by Access Nova Scotia, aims to teach Vietnamese language and culture to children of Vietnamese families and others interested in learning. With support from Faith City Church, the school staff, and advisors, VSH provides language classes, tutoring in subjects like Math, Physics, and programming, along with fun activities like art and chess clubs. The school also organizes cultural events, such as Lunar New Year celebrations, BBQs, and camping trips, to connect families and help children embrace their Vietnamese heritage in Nova Scotia.
+The Vietnamese School Society in Halifax (VSH), established in 2020, is a non-profit organization founded and voluntarily managed by Dr. Nghia Nguyen-Huu, licensed by Access Nova Scotia. VSH is dedicated to teaching the Vietnamese language and culture to children from Vietnamese families and others interested in learning. With strong support from <strong> the Faith City Church </strong>, school staff, and advisors, VSH offers language classes, tutoring in subjects like Math, Physics, and programming, as well as engaging activities such as art and chess clubs. The school also hosts cultural events, including Lunar New Year celebrations, BBQs, and camping trips, fostering community connections and helping children embrace their Vietnamese heritage in Nova Scotia.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -21,7 +21,7 @@ The Vietnamese School Society in Halifax (VSH), a non-profit founded and managed
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Life at the Vietnamese School Society in Halifax! Students enjoy fun classes, share tasty traditional treats, and create beautiful crafts. A place for learning, culture, and fun!
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -29,7 +29,7 @@ The Vietnamese School Society in Halifax (VSH), a non-profit founded and managed
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    A fun and creative moment as the teacher guides students in making lanterns to celebrate the Full Moon Festival!
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -40,5 +40,5 @@ The Vietnamese School Society in Halifax (VSH), a non-profit founded and managed
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Celebrating TET, the Vietnamese New Year! Families gather to enjoy traditional festivities, while students have fun creating crafts and embracing their cultural heritage.
 </div>
