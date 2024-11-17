@@ -36,9 +36,9 @@ The Vietnamese School Society in Halifax (VSH), established in 2020, is a non-pr
         {% include figure.liquid path="assets/img/P9_6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/P9_5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/P9_7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Celebrating TET, the Vietnamese New Year! Families gather to enjoy traditional festivities, while students have fun creating crafts and embracing their cultural heritage.
+    Celebrating TET, the Vietnamese New Year! Families gather to enjoy traditional festivities, while students have fun playing a traditional game and embracing their cultural heritage.
 </div>
