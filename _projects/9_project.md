@@ -7,7 +7,7 @@ importance: 4
 category: fun
 ---
 
-The Vietnamese School Society in Halifax (VSH), established in 2020, is a non-profit organization founded and voluntarily managed by Dr. Nghia Nguyen-Huu, licensed by Access Nova Scotia. VSH is dedicated to teaching the Vietnamese language and culture to children from Vietnamese families and others interested in learning. With strong support from <strong> the Faith City Church </strong>, school staff, and advisors, VSH offers language classes, tutoring in subjects like Math, Physics, and programming, as well as engaging activities such as art and chess clubs. The school also hosts cultural events, including Lunar New Year celebrations, BBQs, and camping trips, fostering community connections and helping children embrace their Vietnamese heritage in Nova Scotia.
+The Vietnamese School Society in Halifax (VSH), established in 2020, is a non-profit organization founded and voluntarily managed by Dr. Nghia Nguyen-Huu, licensed by Access Nova Scotia. VSH is dedicated to teaching the Vietnamese language and culture to children from Vietnamese families and others interested in learning. With strong support from <strong> the Faith City Church </strong>, school staff, and advisors, VSH offers language classes, tutoring in subjects like Math, Physics, and programming, as well as engaging activities such as art and chess clubs. The school also hosts cultural events, including Lunar New Year (Tết) celebrations, BBQs, and camping trips, fostering community connections and helping children embrace their Vietnamese heritage in Nova Scotia.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -29,7 +29,7 @@ The Vietnamese School Society in Halifax (VSH), established in 2020, is a non-pr
     </div>
 </div>
 <div class="caption">
-    A fun and creative moment as the teacher guides students in making lanterns to celebrate the Full Moon Festival!
+    A fun and creative moment as the teacher guides students in making lanterns to celebrate the Full Moon Festival (Tết Trung Thu)!
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -40,5 +40,5 @@ The Vietnamese School Society in Halifax (VSH), established in 2020, is a non-pr
     </div>
 </div>
 <div class="caption">
-    Celebrating TET, the Vietnamese New Year! Families gather to enjoy traditional festivities, while students have fun playing a traditional game and embracing their cultural heritage.
+    Celebrating Tết, the Vietnamese New Year! Families gather to enjoy traditional festivities, while students have fun playing a traditional game and embracing their cultural heritage.
 </div>
