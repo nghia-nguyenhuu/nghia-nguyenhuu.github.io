@@ -9,11 +9,11 @@ nav_order: 8
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/P9_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Teaching_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A fun and creative moment as the teacher guides students in making lanterns to celebrate the Full Moon Festival!
+    A focused moment in class as students engage in learning and problem-solving during one of my lectures.
 </div>
 
 [Dalhousie University](https://www.dal.ca/faculty/engineering/electrical.html)
