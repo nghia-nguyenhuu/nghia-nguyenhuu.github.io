@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Proud to receive the 2023 Engineering Award from Engineers Nova Scotia!
 date: 2023-10-25 18:18:18-0400
 inline: false
