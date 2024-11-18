@@ -11,7 +11,7 @@ From Engineers Nova Scotia: "The Engineering Award from Engineers Nova Scotia ho
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Award_1.jpg" title="ENS_Award" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Award.jpg" title="ENS_Award" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
