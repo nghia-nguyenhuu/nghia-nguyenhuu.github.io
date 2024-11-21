@@ -15,5 +15,5 @@ From Engineers Nova Scotia: "The Engineering Award from Engineers Nova Scotia ho
     </div>
 </div>
 <div class="caption">
-    Honored to receive the 2023 Engineering Award from Engineers Nova Scotia, celebrating a commitment to engineering excellence and community service.
+    Honored to receive the 2023 Engineers Nova Scotia Award for engineering excellence and dedication to community service.
 </div>
