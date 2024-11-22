@@ -8,74 +8,28 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+My journey into energy harvesting began with a focus on thermophotovoltaic (TPV) systems. The first step was to address the challenge of designing a system that works efficiently, no matter the polarization or angle of light. In Ref.​ [1], my team created a simple binary tungsten grating. To the best of my knowledge, this study was the first to demonstrate an emitter that operates effectively under both transverse electric (TE) and transverse magnetic (TM) waves simultaneously. Previous designs for this type of application were limited to TM waves. Our emitter achieved a peak emittance of 0.997 at the target infrared spectrum, offering exceptional performance for TPV systems regardless of light polarization or angle. (See Figure 1 for the emittance spectrum.)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/P2_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    TM and TE emittance spectra of a binary tungsten grating at different incident angles
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Next, I explored how real-world fabrication imperfections could affect solar energy absorbers. Surprisingly, imperfections in the grating geometry, such as attached features or periodic defects, improved light absorption. In Ref. [2], these "imperfect" gratings achieved an average absorptance of 91%. This showed that fabrication tolerances could improve performance while also making manufacturing easier (Figure 2).
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+After that, I worked on improving wavelength selectivity for TPV systems. In Ref. [3], my team designed pyramid-shaped tungsten gratings. These structures used resonance effects, such as surface plasmon resonance and cavity modes, to control thermal emission. They emitted energy precisely in the desired infrared range while suppressing unwanted wavelengths above 2.5 µm. This design opened new possibilities for efficient TPV applications (See Figure 3 for the pyramid grating structure).
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Finally, I turned to simpler designs for solar absorbers that could be easily manufactured. In Ref. [4], I showed that a single silicon grating layer could achieve 92% average absorptance across visible and near-infrared wavelengths. This design combines simplicity with high performance, making it suitable for large-scale solar energy devices (See Figure 4 for energy density distributions).
 
-{% raw %}
+These steps, starting from polarization-insensitive TPV emitters to simple solar absorbers, show how nanostructures can transform energy harvesting. Each discovery builds on the previous one, moving closer to sustainable and efficient energy solutions.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
+<strong> REFERENCES </strong>
+
+
 ```
 
 {% endraw %}
