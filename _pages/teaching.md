@@ -13,7 +13,7 @@ nav_order: 8
     </div>
 </div>
 <div class="caption">
-    A focused moment in class as students engage in learning and problem-solving during one of my lectures.
+    A focused moment in class at Dalhousie University as students engage in learning and problem-solving during one of my lectures.
 </div>
 
 [Dalhousie University](https://www.dal.ca/faculty/engineering/electrical.html)
