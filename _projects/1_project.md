@@ -29,7 +29,7 @@ RGB wavelengths (see Figure 1).</li>
 approximately 60 dB for polarizing effects, making it ideal for compact,
 integrated devices (see Figure 2).</li>
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/P1_3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -42,7 +42,8 @@ integrated devices (see Figure 2).</li>
 </div>
 
 Another publication, “Color filters featuring high transmission efficiency
-and broad bandwidth based on resonant waveguide-metallic grating,” explored RWMG structures to achieve broader spectral bandwidths and higher efficiency
+and broad bandwidth based on resonant waveguide-metallic grating,” explored
+RWMG structures to achieve broader spectral bandwidths and higher efficiency
 for advanced displays and imaging systems. Highlights include:
 
 A double-layer RWMG with silver gratings, optimized to achieve transmission
@@ -55,5 +56,3 @@ bandwidth, enabling precise color control (illustrated in Figure 4).
 These findings demonstrate the potential of nanophotonic structures to
 revolutionize consumer electronics and optical communication systems, setting a
 new benchmark in color filtering and polarization technologies.
-
-    
