@@ -55,8 +55,3 @@ Finally, I turned to simpler designs for solar absorbers that could be easily ma
 These steps, starting from polarization-insensitive TPV emitters to simple solar absorbers, show how nanostructures can transform energy harvesting. Each discovery builds on the previous one, moving closer to sustainable and efficient energy solutions.
 
 <strong> REFERENCES </strong>
-
-
-```
-
-{% endraw %}
