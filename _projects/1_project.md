@@ -33,17 +33,28 @@ and broad bandwidth based on resonant waveguide-metallic grating,” explored
 RWMG structures to achieve broader spectral bandwidths and higher efficiency
 for advanced displays and imaging systems. Highlights include:
 
-A double-layer RWMG with silver gratings, optimized to achieve transmission
-efficiencies of up to 82% for red and 66% for blue, with a wide bandwidth of
-125 nm, making it suitable for high-definition displays
-(see Figure 3 in the publication).
-A triple-layer RWMG, which further enhanced transmission efficiency and
-bandwidth, enabling precise color control (illustrated in Figure 4).
+<li> A double-layer RWMG with silver gratings, optimized to achieve transmission efficiencies of up to 82% for red and 66% for blue, with a wide bandwidth of 125 nm, making it suitable for high-definition displays (see Figure 3).</li>
 
-These findings demonstrate the potential of nanophotonic structures to
-revolutionize consumer electronics and optical communication systems, setting a
-new benchmark in color filtering and polarization technologies.
-REFERENCES
-1. Realization of integrated polarizer and color filters based on subwavelength metallic gratings using a hybrid numerical scheme
-Nghia Nguyen-Huu, Yu-Lung Lo*, Yu-Bin Chen, and Tsai-Yu Yang
-Applied Optics, 2011
+<li> A triple-layer RWMG, which further enhanced transmission efficiency and bandwidth, enabling precise color control (illustrated in Figure 4).</li>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/P1_5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/P1_6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Transmission of a double-layer RWMG in Figure 3 and of a triple-layer RWMG in Figure 4
+</div>
+
+These findings demonstrate the potential of nanophotonic structures to revolutionize consumer electronics and optical communication systems, setting a new benchmark in color filtering and polarization technologies.
+
+<strong> REFERENCES </strong>
+1. "Realization of integrated polarizer and color filters based on subwavelength metallic gratings using a hybrid numerical scheme", Nghia Nguyen-Huu, Yu-Lung Lo*, Yu-Bin Chen, and Tsai-Yu Yang, Applied Optics, 2011
+
+2. "Color filters featuring high transmission efficiency and broad bandwidth based on resonant waveguide-metallic grating", Nghia Nguyen-Huu, Yu-Lung Lo*, and Yu-Bin Chen,
+Optics Communications, 2011
+
+3. "Subwavelength metallic gratings as an integrated device - polarized color filter", Nghia Nguyen-Huu, Yu-Lung Lo*, Yu-Bin Chen, and Tsai-Yu Yang, Conference paper, Photonics West, Optical Components and Materials VIII, 2011
