@@ -32,7 +32,7 @@ The Vietnamese School Society in Halifax (VSH), established in 2020, is a non-pr
     A fun and creative moment as the teacher guides students in making lanterns to celebrate the Full Moon Festival (Tết Trung Thu)!
 </div>
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/P9_6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
