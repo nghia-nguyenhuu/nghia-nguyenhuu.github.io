@@ -25,7 +25,7 @@ In my paper, “Realization of integrated polarizer and color filters based on s
 </div>
 <div class="caption">
     Transmission of a single-layer grating in Figure 1 and of a double-layer grating
-    in Figure 2
+    in Figure 2 (RGB filters)
 </div>
 
 Another publication, “Color filters featuring high transmission efficiency
@@ -46,7 +46,7 @@ for advanced displays and imaging systems. Highlights include:
     </div>
 </div>
 <div class="caption">
-    Transmission of a double-layer RWMG in Figure 3 and of a triple-layer RWMG in Figure 4
+    Transmission of a double-layer RWMG (Red filter) in Figure 3 and of a triple-layer RWMG (Red filter) in Figure 4
 </div>
 
 These findings demonstrate the potential of nanophotonic structures to revolutionize consumer electronics and optical communication systems, setting a new benchmark in color filtering and polarization technologies.
