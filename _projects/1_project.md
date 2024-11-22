@@ -10,6 +10,8 @@ related_publications: false
 
 My research focuses on advancing the design and development of optical filters and polarizers for high-performance displays and sensing technologies. By utilizing subwavelength metallic gratings (SWMGs) and resonant waveguide-metallic gratings (RWMGs), I have created integrated devices capable of performing color filtering and polarization simultaneously. These innovative approaches significantly enhance the efficiency and functionality of modern screens and photonic systems.
 
+The figures below show highlights from the research, including transmission efficiencies and advanced filtering designs. For a detailed understanding of the methodologies and results, please refer to the original publications: Ref. [1-3]
+
 In my paper, “Realization of integrated polarizer and color filters based on subwavelength metallic gratings using a hybrid numerical scheme,” we demonstrated high transmission efficiency with multi-layer SWMG designs. Key findings include:
 
 <li> A single-layer grating that effectively combined polarization and color filtering for LCD applications, achieving up to 50% transmission efficiency at RGB wavelengths (see Figure 1).</li>
