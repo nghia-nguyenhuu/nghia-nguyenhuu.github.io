@@ -37,8 +37,8 @@ integrated devices (see Figure 2).</li>
     </div>
 </div>
 <div class="caption">
-    Figure 1. Transmission of single-layer grating at normal incidence
-    and Figure 2 Transmission of double-layered grating at normal incidence
+    Transmission of a single-layer grating in Figure 1 and of a double-layer grating
+    in Figure 2
 </div>
 
 Another publication, “Color filters featuring high transmission efficiency
