@@ -5,7 +5,7 @@ description: Polarizers and color filters
 img: assets/img/P1_1.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 My research focuses on advancing the design and development of optical filters and polarizers for high-performance displays and sensing technologies. By utilizing subwavelength metallic gratings (SWMGs) and resonant waveguide-metallic gratings (RWMGs), I have created integrated devices capable of performing color filtering and polarization simultaneously. These innovative approaches significantly enhance the efficiency and functionality of modern screens and photonic systems.
@@ -43,3 +43,7 @@ bandwidth, enabling precise color control (illustrated in Figure 4).
 These findings demonstrate the potential of nanophotonic structures to
 revolutionize consumer electronics and optical communication systems, setting a
 new benchmark in color filtering and polarization technologies.
+REFERENCES
+1. Realization of integrated polarizer and color filters based on subwavelength metallic gratings using a hybrid numerical scheme
+Nghia Nguyen-Huu, Yu-Lung Lo*, Yu-Bin Chen, and Tsai-Yu Yang
+Applied Optics, 2011
