@@ -8,26 +8,13 @@ category: work
 related_publications: true
 ---
 
-My research focuses on advancing the design and development of optical filters
-and polarizers for high-performance displays and sensing technologies. By
-utilizing subwavelength metallic gratings (SWMGs) and resonant
-waveguide-metallic gratings (RWMGs), I have created integrated devices capable
-of performing color filtering and polarization simultaneously. These innovative
-approaches significantly enhance the efficiency and functionality of modern
-screens and photonic systems.
+My research focuses on advancing the design and development of optical filters and polarizers for high-performance displays and sensing technologies. By utilizing subwavelength metallic gratings (SWMGs) and resonant waveguide-metallic gratings (RWMGs), I have created integrated devices capable of performing color filtering and polarization simultaneously. These innovative approaches significantly enhance the efficiency and functionality of modern screens and photonic systems.
 
-In my paper, “Realization of integrated polarizer and color filters based on
-subwavelength metallic gratings using a hybrid numerical scheme,” we
-demonstrated high transmission efficiency with multi-layer SWMG designs.
-Key findings include:
+In my paper, “Realization of integrated polarizer and color filters based on subwavelength metallic gratings using a hybrid numerical scheme,” we demonstrated high transmission efficiency with multi-layer SWMG designs. Key findings include:
 
-<li> A single-layer grating that effectively combined polarization and color
-filtering for LCD applications, achieving up to 50% transmission efficiency at
-RGB wavelengths (see Figure 1).</li>
+<li> A single-layer grating that effectively combined polarization and color filtering for LCD applications, achieving up to 50% transmission efficiency at RGB wavelengths (see Figure 1).</li>
 
-<li> A double-layer grating that improved filtering performance, reaching
-approximately 60 dB for polarizing effects, making it ideal for compact,
-integrated devices (see Figure 2).</li>
+<li> A double-layer grating that improved filtering performance, reaching approximately 60 dB for polarizing effects, making it ideal for compact, integrated devices (see Figure 2).</li>
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/P1_3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
