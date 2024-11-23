@@ -11,7 +11,7 @@ This project focuses on applying nanophotonics and metamaterials to improve unde
 
 Our designs improve energy generation by increasing surface interactions and enhancing charge transfer in water. They also bring new features like light manipulation (e.g., absorption or scattering) to support environmental monitoring, biosensing, and underwater communication. With the help of metamaterials, we ensure these devices are durable, water-resistant, and suitable for challenging underwater conditions.
 
-<strong> Applications </strong>:
+Applications:
 
 1. <strong> Renewable Energy </strong>: Harvesting wave energy to power underwater devices.
 2. <strong> Environmental Monitoring </strong>: Tracking water quality, temperature, and pollution.
