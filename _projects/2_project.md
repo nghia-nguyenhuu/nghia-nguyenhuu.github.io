@@ -52,6 +52,21 @@ Finally, I turned to simpler designs for solar absorbers that could be easily ma
     Figure 4. Magnetic field, energy and Poynting vector distributions within one grating period
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/P2_3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/P2_4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/P2_6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Figure 2. Schematic illustration of imperfect gratings; Figure 3. TW wave emittance spectrum at normal incidence; Figure 4. Magnetic field, energy and Poynting vector distributions within one grating period
+</div>
+
 These steps, starting from polarization-insensitive TPV emitters to simple solar absorbers, show how nanostructures can transform energy harvesting. Each discovery builds on the previous one, moving closer to sustainable and efficient energy solutions.
 
 <strong> REFERENCES </strong>
