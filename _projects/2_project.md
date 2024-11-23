@@ -21,36 +21,9 @@ My journey into energy harvesting began with a focus on thermophotovoltaic (TPV)
 
 Next, I explored how real-world fabrication imperfections could affect solar energy absorbers. Surprisingly, imperfections in the grating geometry, such as attached features or periodic defects, improved light absorption. In Ref. [2], these "imperfect" gratings achieved an average absorptance of 91%. This showed that fabrication tolerances could improve performance while also making manufacturing easier (Figure 2).
 
-<div class="row">
-    <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/P2_3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Figure 2. Schematic illustration of imperfect gratings
-</div>
-
 After that, I worked on improving wavelength selectivity for TPV systems. In Ref. [3], my team designed pyramid-shaped tungsten gratings. These structures used resonance effects, such as surface plasmon resonance and cavity modes, to control thermal emission. They emitted energy precisely in the desired infrared range while suppressing unwanted wavelengths above 2.5 µm. This design opened new possibilities for efficient TPV applications (See Figure 3 for spectra of the pyramid grating structure).
 
-<div class="row">
-    <div class="col-sm=3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/P2_4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Figure 3. TW wave emittance spectrum at normal incidence
-</div>
-
 Finally, I turned to simpler designs for solar absorbers that could be easily manufactured. In Ref. [4], I showed that a single silicon grating layer could achieve 92% average absorptance across visible and near-infrared wavelengths. This design combines simplicity with high performance, making it suitable for large-scale solar energy devices (See Figure 4 for energy density distributions).
-
-<div class="row">
-    <div class="col-sm-3 mt-6 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/P2_6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Figure 4. Magnetic field, energy and Poynting vector distributions within one grating period
-</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -70,3 +43,7 @@ Finally, I turned to simpler designs for solar absorbers that could be easily ma
 These steps, starting from polarization-insensitive TPV emitters to simple solar absorbers, show how nanostructures can transform energy harvesting. Each discovery builds on the previous one, moving closer to sustainable and efficient energy solutions.
 
 <strong> REFERENCES </strong>
+1. "Development of a polarization-insensitive thermophotovoltaic emitter with a binary grating", Nghia Nguyen-Huu, Yu-Bin Chen, and Yu-Lung Lo*, Optics Express, 2012
+2. "Imperfectly geometric shapes of nanograting structures as solar absorbers with superior performance for solar cells", Nghia Nguyen-Huu*, Jaromir Pištora, and Michael Cada, Optics Express, 2014
+3. "Wavelength-selective emitters with pyramid nanogratings enhanced by multiple resonance modes", Nghia Nguyen-Huu*, Jaromir Pištora, and Michael Cada, Nanotechnology, 2016
+4. "Investigation of optical absorptance of one-dimensionally periodic silicon gratings as solar absorbers for solar cells", Nghia Nguyen-Huu*, Jaromir Pištora, and Michael Cada, Optics Express, 2014
