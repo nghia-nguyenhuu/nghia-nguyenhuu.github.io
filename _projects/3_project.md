@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Industry Products Inspired by Nanophotonics and Metamaterials
+title: Nanophotonics and Metamaterials
 description: Advanced Optical Applications
 img: assets/img/P4_1.jpg
 redirect:
