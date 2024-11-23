@@ -44,7 +44,7 @@ After that, I worked on improving wavelength selectivity for TPV systems. In Ref
 Finally, I turned to simpler designs for solar absorbers that could be easily manufactured. In Ref. [4], I showed that a single silicon grating layer could achieve 92% average absorptance across visible and near-infrared wavelengths. This design combines simplicity with high performance, making it suitable for large-scale solar energy devices (See Figure 4 for energy density distributions).
 
 <div class="row">
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-6 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/P2_6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
