@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Final Exam Announcement for ECED 3102: Electromechanics!!!
+title: Final Exam Details for ECED 3102: Electromechanics!!!
 date: 2024-11-22 18:18:18-0400
 inline: false
 related_posts: false
 ---
+
 Hi Everyone,
 
 Your final exam is scheduled for Friday, December 13th, 2024, at 8:30 AM. Please
