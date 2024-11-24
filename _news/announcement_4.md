@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Final Exam Details for ECED 3102: Electromechanics!!!
 date: 2024-11-22 18:18:18-0400
 inline: false
