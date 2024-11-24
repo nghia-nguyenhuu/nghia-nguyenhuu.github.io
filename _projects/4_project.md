@@ -18,7 +18,7 @@ Next, we look at the mid-infrared spectrum, where Fano resonances are used to ac
 Then, we move to double-layered metallic gratings, carefully designed for mid-infrared sensing. These gratings use surface plasmon polaritons and cavity resonances to detect very small changes in refractive index, with resolutions as fine as 1 × 10⁻⁷ RIU. The grooves in the structure trap light and extract precise information, making them highly effective.
 
 <div class="row">
-    <div class="col-sm-2 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/P4_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
