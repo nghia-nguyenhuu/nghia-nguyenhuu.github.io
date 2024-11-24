@@ -42,7 +42,7 @@ Lastly, nonlinear optical processes come into play with Kretschmann-based nonlin
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/P4_5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/P4_5_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/P4_6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
