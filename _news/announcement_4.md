@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Final Exam Announcement for ECED 3102: Electromechanics!
+title: Final Exam Announcement for ECED 3102: Electromechanics!!!
 date: 2024-11-22 18:18:18-0400
 inline: false
 related_posts: false
