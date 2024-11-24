@@ -17,6 +17,21 @@ Next, we look at the mid-infrared spectrum, where Fano resonances are used to ac
 
 Then, we move to double-layered metallic gratings, carefully designed for mid-infrared sensing. These gratings use surface plasmon polaritons and cavity resonances to detect very small changes in refractive index, with resolutions as fine as 1 × 10⁻⁷ RIU. The grooves in the structure trap light and extract precise information, making them highly effective.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/P4_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/P4_3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/P4_4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Figures
+</div>
+
 At the center of this work are the original ideas, designed to push the limits of what light can do for sensing. Along with these innovations, collaborations have also helped expand the scope of this project.
 
 For instance, Indium Antimonide (InSb)-based slot waveguides show how terahertz waves can be confined to very small scales. These waveguides allow for low-loss transport and work with CMOS technology, making them practical for applications like biochemical sensing and high-frequency communication.
