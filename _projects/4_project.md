@@ -40,4 +40,27 @@ Similarly, the terahertz temperature sensors designed with Mach-Zehnder interfer
 
 Lastly, nonlinear optical processes come into play with Kretschmann-based nonlinear plasmonic sensors. Using sum- and difference-frequency generation, these sensors achieve sensitivity as high as 1 × 10⁶ nm/RIU. They work across both visible and mid-infrared spectrums, opening new opportunities for biosensing. This shows how even simple setups, like a glass prism and a gold film, can lead to big innovations.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/P4_5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/P4_6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/P4_7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Figures
+</div>
+
 All of these studies come together to form a story of creativity and collaboration. This project is not just about technical details—it’s about imagining how light can help us see the world in new ways and solve important problems. It’s an invitation to explore the future of optical and plasmonic biosensing.
+
+<strong> REFERENCES </strong>
+1. "Tunable optical filter based on gold and silver double-sided gratings and its application as plasmonic sensor", Nghia Nguyen-Huu*, Jaromir Pištora, Michael Cada, and Yasumoto Kiyptoshi, IEEE/OPTICA Journal of Lightwave Technology, 2014
+2. "Mid-infrared Fano resonance in heavily doped silicon and metallic nanostructures due to coupling of Wood–Rayleigh anomaly and surface plasmons", Nghia Nguyen-Huu*, Michael Cada, Youqiao Ma, Franklin Che, Jaromir Pistora, Kiyotoshi Yasumoto, Jie Lin, and Hiroshi Maeda, J. Phys. D Appl. Phys., 2017
+3. "Optimized double-layered grating structures for chem/biosensing in midinfrared range", Quoc-Hung Phan, Nghia Nguyen-Huu*, and Yu-Lung Lo, IEEE Sensors Journal, 2014
+4. "Subwavelength InSb-based Slot wavguides for THz transport-concept and practical implementations", Youqiao Ma*, Jun Zhou, Jaromír Pištora, Mohamed Eldlio, Nghia Nguyen-Huu, Hiroshi Maeda, Qiang Wu, and Michael Cada, Scientific Reports, Nature, 2016
+5. "Mach–Zehnder interferometer-based integrated terahertz temperature sensor", Youqiao Ma*, Nghia Nguyen-Huu, Jun Zhou, Hiroshi Maeda, Qiang Wu, Mohamed Eldlio, Jaromír Pištora, and Michael Cada, IEEE Journal of Selected Topics in Quantum Electronics, 2017
+6. "High sensitivity integrated visible to mid-infrared nonlinear plasmonic sensor", F Che*, S. A. Ponomarenko, M. Cada, and N. Nguyen-Huu, IEEE Photonics Journal, 2017
