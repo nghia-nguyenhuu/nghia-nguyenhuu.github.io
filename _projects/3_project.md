@@ -9,7 +9,7 @@ category: work
 ---
 My research in nanophotonics and metamaterials focuses on controlling light at the nanoscale by combining graphene with advanced structures like gratings and layered designs. These innovations create exciting opportunities in energy, sensing, and photonics by enabling the tuning of light properties for many applications.
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-1 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/P3_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
