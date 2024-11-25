@@ -29,7 +29,7 @@ Then, we move to double-layered metallic gratings, carefully designed for mid-in
     </div>
 </div>
 <div class="caption">
-    Figures
+    Figure: (1) Magnetic field (H) and Poynting vectors at peak A, and magnetic (H) and electric (E) field vectors at peak B, with an inset LC circuit model illustrating resonance behavior. (2) Reflectance spectra for refractive indices (n = 1.36 to 1.46) and the linear relationship between resonance wavelength and refractive index, demonstrating high sensitivity. (3) Fabrication process of the proposed sensor, including Ti/Ag sputtering, photoresist application, and etching, resulting in an optimized infrared sensor structure.
 </div>
 
 At the center of this work are the original ideas, designed to push the limits of what light can do for sensing. Along with these innovations, collaborations have also helped expand the scope of this project.
@@ -52,7 +52,7 @@ Lastly, nonlinear optical processes come into play with Kretschmann-based nonlin
     </div>
 </div>
 <div class="caption">
-    Figures
+    Figure: (4) Simulation of electromagnetic field along the waveguide showing light confinement and propagation. (5) Diagram of the waveguide structure with surface plasmon polaritons (SPP) coupling at the interfaces, including propagation directions and dimensions. (6) Heatmaps of reflectance showing resonance conditions with angle of incidence and wavelength.
 </div>
 
 All of these studies come together to form a story of creativity and collaboration. This project is not just about technical details—it’s about imagining how light can help us see the world in new ways and solve important problems. It’s an invitation to explore the future of optical and plasmonic biosensing.
