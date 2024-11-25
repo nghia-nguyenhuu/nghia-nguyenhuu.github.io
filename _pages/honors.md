@@ -5,7 +5,6 @@ title: honors
 description: Welcome to my Honors page, where I highlight my professional achievements and meaningful contributions to the engineering, scientific and local communities.
 nav: true
 nav_order: 8
-
 ---
 <strong> Awards and Recognitions </strong>
 <li> 2023 Engineers Nova Scotia Engineering Award </li>
@@ -13,11 +12,11 @@ nav_order: 8
 <li> SPIE Travel Grant </li>
 <li> National Science Council of Taiwan Travel Grant </li>
 
-<p> <strong> Professional Memberships </strong> <p>
+<strong> Professional Memberships </strong>
 <li> Licensed Professional Engineer, Engineers Nova Scotia </li>
 <li> Senior Member: SPIE, Optica, and IEEE </li>
 
-<p> <strong> Volunteer Leadership and Service </strong> <p>
+<strong> Volunteer Leadership and Service </strong>
 <li> Associate Editor: Applied Nanoscience, Nature Springer (2022-) </li>
 <li> Associate Editor: Journal of Nanophotonics, SPIE (2020-2023) </li>
 <li> Board of Examiners Member and CPD Committee Member, Engineers Nova Scotia </li>
