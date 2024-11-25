@@ -7,7 +7,7 @@ nav: true
 nav_order: 8
 ---
 <strong> Awards and Recognitions </strong>
-<li> 2023 Engineers Nova Scotia Engineering Award </li>
+<li> 2023 Engineering Award, Engineers Nova Scotia </li>
 <li> Multiple Best Poster and Oral Presentation Awards for work in optical devices and nanophotonics </li>
 <li> SPIE Travel Grant </li>
 <li> National Science Council of Taiwan Travel Grant </li>
@@ -19,7 +19,7 @@ nav_order: 8
 <strong> Volunteer Leadership and Service </strong>
 <li> Associate Editor: Applied Nanoscience, Nature Springer (2022-) </li>
 <li> Associate Editor: Journal of Nanophotonics, SPIE (2020-2023) </li>
-<li> Board of Examiners Member and CPD Committee Member, Engineers Nova Scotia </li>
+<li> Board of Examiners Member and CPD Committee Member, Engineers Nova Scotia (2016-) </li>
 <li> Conference Chair (ASPIRE and Engineers Nova Scotia Annual Meeting) and SPIE Scholarship Committee Member
 <li> Founder and Principal: Vietnamese School Society in Halifax (2020-)
 <li> Journal reviewer: Optics Express, Nanotechnology, SPIE Journal of Nanophotonics, Optics Communications... </li>
