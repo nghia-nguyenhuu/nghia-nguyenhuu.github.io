@@ -8,13 +8,6 @@ importance: 3
 category: work
 ---
 My research in nanophotonics and metamaterials focuses on controlling light at the nanoscale by combining graphene with advanced structures like gratings and layered designs. These innovations create exciting opportunities in energy, sensing, and photonics by enabling the tuning of light properties for many applications.
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/P3_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="caption">
-        Figure 1 A 3D representation of our photonic structure design
-    </div>
 
 One important achievement in my work is a graphene-covered metallic grating that achieves 98% absorptance in the near-infrared spectrum. This is a big improvement compared to graphene’s natural 2.3% absorptance (see Figure 1). The design combines graphene’s unique properties with resonant modes in the grating, making it useful for ultrafast photodetectors, thermal management, and optical communication while working well across wide incident angles.
 
