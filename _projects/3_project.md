@@ -8,6 +8,14 @@ importance: 3
 category: work
 ---
 My research in nanophotonics and metamaterials focuses on controlling light at the nanoscale by combining graphene with advanced structures like gratings and layered designs. These innovations create exciting opportunities in energy, sensing, and photonics by enabling the tuning of light properties for many applications.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/P3_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+     Figure 1: A 3D representation of our photonic structure design.
+</div>
 
 One important achievement in my work is a graphene-covered metallic grating that achieves 98% absorptance in the near-infrared spectrum. This is a big improvement compared to graphene’s natural 2.3% absorptance (see Figure 1). The design combines graphene’s unique properties with resonant modes in the grating, making it useful for ultrafast photodetectors, thermal management, and optical communication while working well across wide incident angles.
 
@@ -29,7 +37,7 @@ I also worked on double-layered metallic gratings that can fine-tune their optic
     </div>
 </div>
 <div class="caption">
-    Figure
+    Figure: (1) Absorptance spectra comparing structures with and without graphene, showing enhanced absorption in graphene-covered designs. (2) Dual-band absorption peaks for a double-layered compound grating (DLCG) with and without graphene overlay, highlighting the impact of graphene on absorptance. (c) Absorptance as a function of wavelength for varying the grating thickness in double-layered structures, illustrating tunability of spectral response. (d) Simulated field distributions showing resonant modes and energy localization in the grating structures.
 </div>
 
 These studies show how integrating graphene with nanostructures can achieve amazing control over light and its properties. From improving light absorption to precisely tuning the spectrum, my work demonstrates the potential of nanophotonics and metamaterials for solving modern challenges and creating new innovations.
