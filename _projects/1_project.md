@@ -55,8 +55,6 @@ These findings demonstrate the potential of nanophotonic structures to revolutio
 
 <strong> REFERENCES </strong>
 1. "Realization of integrated polarizer and color filters based on subwavelength metallic gratings using a hybrid numerical scheme", Nghia Nguyen-Huu, Yu-Lung Lo*, Yu-Bin Chen, and Tsai-Yu Yang, Applied Optics, 2011
-
 2. "Color filters featuring high transmission efficiency and broad bandwidth based on resonant waveguide-metallic grating", Nghia Nguyen-Huu, Yu-Lung Lo*, and Yu-Bin Chen,
 Optics Communications, 2011
-
 3. "Subwavelength metallic gratings as an integrated device - polarized color filter", Nghia Nguyen-Huu, Yu-Lung Lo*, Yu-Bin Chen, and Tsai-Yu Yang, Conference paper, Photonics West, Optical Components and Materials VIII, 2011
