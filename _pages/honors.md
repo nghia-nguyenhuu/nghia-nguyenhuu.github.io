@@ -6,6 +6,18 @@ description: Welcome to my Honors page, where I highlight my professional achiev
 nav: true
 nav_order: 8
 ---
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Award.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Award_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Honored to receive the Engineering Award from Engineers Nova Scotia and share my gratitude for this recognition.
+</div>
+
 <strong> Awards and Recognitions </strong>
 <li> 2023 Engineering Award, Engineers Nova Scotia </li>
 <li> Multiple Best Poster and Oral Presentation Awards for work in optical devices and nanophotonics </li>
