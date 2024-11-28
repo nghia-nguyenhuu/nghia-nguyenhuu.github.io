@@ -19,7 +19,7 @@ nav_order: 8
 </div>
 
 <strong> Awards and Recognitions </strong>
-<li> [2023 Engineering Award](https://engineersnovascotia.ca/awards/), Engineers Nova Scotia </li>
+<li> <a href="https://engineersnovascotia.ca/news/view/?news.id=254">2023 Engineering Award</a>, Engineers Nova Scotia </li>
 <li> Multiple Best Poster and Oral Presentation Awards for work in optical devices and nanophotonics </li>
 <li> SPIE Travel Grant </li>
 <li> National Science Council of Taiwan Travel Grant </li>
