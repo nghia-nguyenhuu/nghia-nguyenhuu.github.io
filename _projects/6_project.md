@@ -39,5 +39,5 @@ The project highlights the following advancements and currently developed by our
     </div>
 </div>
 <div class="caption">
-    Development of current research for real-world innovations: Flexible thin film and energy-saving thin films for glass buildings
+    One of the current research for real-world innovations: Flexible thin film and energy-saving thin films for glass buildings
 </div>
