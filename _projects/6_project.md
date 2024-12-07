@@ -11,8 +11,8 @@ Throughout my career, I have had the opportunity to collaborate with various lea
 
 The project highlights the following advancements, which are already available in markets and are currently being further developed by our group:
 
-1. Laser-Filtering Eyewear – Participating in the creation of holographic coatings for eyewear that safely reflect harmful laser beams, enhancing safety in high-tech environments.
-2. Nanostructured LED Coatings – Engaging in the design of thin-film coatings for LEDs to improve brightness and energy efficiency, transforming lighting solutions.
+<strong>Laser-Filtering Eyewear</strong> – Participating in the creation of holographic coatings for eyewear that safely reflect harmful laser beams, enhancing safety in high-tech environments.
+<strong>Nanostructured LED Coatings</strong> – Engaging in the design of thin-film coatings for LEDs to improve brightness and energy efficiency, transforming lighting solutions.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/P6_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -28,8 +28,8 @@ The project highlights the following advancements, which are already available i
     Transforming research into real-world innovations: laser-filtering eyewear and nanostructured LED coatings
 </div>
 
-3. Flexible Thin-Film Solar Cells – Currently under development, these lightweight and adaptable solar cells are designed to optimize renewable energy systems. My contributions include collaborating with experts on the design and simulation of these innovative energy solutions.
-4. Energy-Saving Glass Films for Buildings – These thin films, still in the development phase, are designed to enhance energy efficiency in buildings by regulating temperature, keeping interiors warm in winter and cool in summer. My work focuses on contributing to their application and performance optimization for sustainable building solutions.
+<strong>Flexible Thin-Film Solar Cells</strong> – Currently under development, these lightweight and adaptable solar cells are designed to optimize renewable energy systems. My contributions include collaborating with experts on the design and simulation of these innovative energy solutions.
+<strong>Energy-Saving Glass Films for Buildings</strong> – These thin films, still in the development phase, are designed to enhance energy efficiency in buildings by regulating temperature, keeping interiors warm in winter and cool in summer. My work focuses on contributing to their application and performance optimization for sustainable building solutions.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/P6_5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
