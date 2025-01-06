@@ -16,6 +16,9 @@ nav_order: 8
     A focused moment in class at Dalhousie University as students engage in learning and problem-solving during one of my lectures.
 </div>
 
+[Cape Breton University](https://www.cbu.ca/)
+<p> Courses coming soon <p>
+
 [Dalhousie University](https://www.dal.ca/faculty/engineering/electrical.html)
 <li> <strong> ECED 4602 Control Systems </strong> </li>
 <p> Winter 2025 (160 students) <p>
