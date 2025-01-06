@@ -17,7 +17,7 @@ nav_order: 8
 </div>
 
 [Cape Breton University](https://www.cbu.ca/)
-<p> Courses coming soon <p>
+<li> <strong> Courses coming soon </strong> </li>
 
 <a href="https://www.dal.ca/faculty/engineering/electrical.html"> Dalhousie University </a>
 <li> <strong> ECED 4602 Control Systems </strong> </li>
