@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Adjunct Faculty - Dalhousie University, Canada
+subtitle: Engineering Instructor - Cape Breton University and Adjunct Faculty - Dalhousie University, Canada
 
 profile:
   align: right
