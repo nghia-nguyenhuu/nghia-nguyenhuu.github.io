@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a [professional engineer](https://engineersnovascotia.ca/) (P.Eng.) and an Adjunct Faculty member in the Department of Electrical and Computer Engineering at [Dalhousie University](https://ece.dal.ca), specializing in nano/micro-scale energy transport (photonics). My research focuses on light-matter interactions for mechanical-opto-electronic devices, such as energy absorbers, thermophotovoltaic emitters, optical filters, and biosensors.
+I am a [professional engineer](https://engineersnovascotia.ca/) (P.Eng.), a full-time engineering instructor at [Cape Breton University](https://www.cbu.ca/), and an Adjunct Faculty member in the Department of Electrical and Computer Engineering at [Dalhousie University](https://ece.dal.ca), specializing in nano/micro-scale energy transport (photonics). My research focuses on light-matter interactions for mechanical-opto-electronic devices, such as energy absorbers, thermophotovoltaic emitters, optical filters, and biosensors.
 
 With dual Master's degrees in Mechanical Engineering, I bring extensive industry experience, including developing thin-film structures for laser strike protection, improving LED roadway lighting, designing acoustic systems to enhance comfort in care homes, and creating advanced simulations for ship air defense to strengthen naval protection. My academic journey began at [INSA de Lyon](https://www.insa-lyon.fr/), France, and the [Universitat Politècnica de Catalunya](https://www.upc.edu/en), Spain, where I researched MIMO-based dynamic systems for my thesis.
 
