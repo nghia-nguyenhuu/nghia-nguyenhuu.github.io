@@ -10,9 +10,10 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>My name is Nghia, pronounced 'ŋîə' or 'Near'.</p>
-    <p>Electrical and Computer Engineering Dalhousie University</p>
-    <p>1459 Oxford Street</p>
-    <p>Halifax, NS B3H 4R2 Canada</p>
+    <p>Engineering Department-Cape Breton University</p>
+    <p>Adjunct Faculty-Dalhousie University</p>
+    <p>1250 Grand Lake Road</p>
+    <p>Sydney, NS B1P 6L2, Canada</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
