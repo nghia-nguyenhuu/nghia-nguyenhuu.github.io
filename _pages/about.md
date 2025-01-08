@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>My name is Nghia, pronounced 'ŋîə' or 'Near'.</p>
-    <p>Engineering Department-Cape Breton University</p>
+    <p>Engineering Instructor-Cape Breton University</p>
     <p>Adjunct Faculty-Dalhousie University</p>
     <p>1250 Grand Lake Road</p>
     <p>Sydney, NS B1P 6L2, Canada</p>
