@@ -5,15 +5,13 @@ permalink: /
 subtitle: Engineering Instructor - Cape Breton University and Adjunct Faculty - Dalhousie University, Canada
 
 profile:
-  align: left
+  align: right
   image: prof_pic_1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>My name is Nghia, pronounced 'ŋîə' or 'Near'.</p>
     <p>Engineering Instructor-Cape Breton University</p>
     <p>Adjunct Faculty-Dalhousie University</p>
-    <p>1250 Grand Lake Road</p>
-    <p>Sydney, NS B1P 6L2, Canada</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
