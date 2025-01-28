@@ -5,7 +5,7 @@ permalink: /
 subtitle: Engineering Instructor - Cape Breton University and Adjunct Faculty - Dalhousie University, Canada
 
 profile:
-  align: right
+  align: left
   image: prof_pic_1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
