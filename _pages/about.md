@@ -7,7 +7,7 @@ subtitle: Engineering Instructor - Cape Breton University and Adjunct Faculty - 
 profile:
   align: right
   image: prof_pic_2.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>My name is Nghia, pronounced 'ŋîə' or 'Near'.</p>
     <p>Engineering Instructor-Cape Breton University</p>
