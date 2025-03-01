@@ -15,7 +15,7 @@
 <!-- Reformatted education info without bullets -->
 <p style="margin-left: 60px; text-align: justify; line-height: 1.6;">
     <strong>Ph.D.</strong>, National Cheng Kung University, Taiwan <br>
-    <strong>Erasmus Mundus Master</strong>, Institut National des Sciences Appliquées (INSA) de Lyon, France <br>
+    <strong>Erasmus Mundus Master</strong>, INSA de Lyon, France <br>
     <strong>Erasmus Mundus Master</strong>, Universitat Politècnica de Catalunya - UPC, Spain <br>
     <strong>B.Eng.</strong>, Can Tho University, Vietnam
 </p>
