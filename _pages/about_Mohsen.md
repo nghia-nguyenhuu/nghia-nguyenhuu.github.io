@@ -1,4 +1,4 @@
-<h2 style="margin-bottom: 5px;"><strong>Mohsen Fallah, M.Sc.</strong></h2>
+<h2 style="margin-bottom: 5px;">Mohsen Fallah, M.Sc.</h2>
 
 <p style="margin-top: 0; font-size: 16px; color: #555;">
     <strong>Ph.D. student (Fall 2025), co-supervised with
