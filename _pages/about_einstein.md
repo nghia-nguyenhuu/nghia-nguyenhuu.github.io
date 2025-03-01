@@ -6,4 +6,4 @@
 <li> Erasmus Mundus Master, Universitat Politècnica de Catalunya - UPC, Spain </li>
 <li> B.Eng., Can Tho University, Vietnam </li>
 <p>Email: <strong>nghia_nguyen-huu@cbu.ca</strong><p>
-<p>Email: <strong>nghia.nguyen-huu@dal.ca</strong><p>
+<p> or <strong>nghia.nguyen-huu@dal.ca</strong><p>
