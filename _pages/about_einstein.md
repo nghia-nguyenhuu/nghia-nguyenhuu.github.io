@@ -22,11 +22,11 @@
 
 <!-- Email section well-formatted -->
 <p style="font-size: 17px; margin-top: 10px;">
-    <strong>📩:</strong> <br>
+    <strong>📩:</strong> 
     <a href="mailto:nghia_nguyen-huu@cbu.ca" style="color: #0073e6; font-weight: bold; text-decoration: none;">
         nghia_nguyen-huu@cbu.ca
-    </a> <br>
-    <span style="font-size: 14px; color: #555;">or</span> <br>
+    </a>
+    <span style="font-size: 14px; color: #555; margin: 0 8px;">or</span>
     <a href="mailto:nghia.nguyen-huu@dal.ca" style="color: #0073e6; font-weight: bold; text-decoration: none;">
         nghia.nguyen-huu@dal.ca
     </a>
