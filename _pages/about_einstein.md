@@ -8,23 +8,26 @@
     Adjunct Faculty, Electrical and Computer Engineering Department, Dalhousie University
 </p>
 
-<p><strong> 2023 Engineering Award, Engineers Nova Scotia</strong></p>
+<p style="font-size: 18px; margin-top: 10px;">
+    <strong> 2023 Engineering Award, Engineers Nova Scotia</strong>
+</p>
 
-<!-- Increased margin-left for proper spacing from the image -->
-<ul style="padding-left: 50px; margin-left: 60px;">
-    <li><strong>Ph.D.</strong>, National Cheng Kung University, Taiwan</li>
-    <li><strong>Erasmus Mundus Master</strong>, Institut National des Sciences Appliquées (INSA) de Lyon, France</li>
-    <li><strong>Erasmus Mundus Master</strong>, Universitat Politècnica de Catalunya - UPC, Spain</li>
-    <li><strong>B.Eng.</strong>, Can Tho University, Vietnam</li>
-</ul>
+<!-- Reformatted education info without bullets -->
+<p style="margin-left: 60px; text-align: justify; line-height: 1.6;">
+    <strong>Ph.D.</strong>, National Cheng Kung University, Taiwan <br>
+    <strong>Erasmus Mundus Master</strong>, Institut National des Sciences Appliquées (INSA) de Lyon, France <br>
+    <strong>Erasmus Mundus Master</strong>, Universitat Politècnica de Catalunya - UPC, Spain <br>
+    <strong>B.Eng.</strong>, Can Tho University, Vietnam
+</p>
 
-<p><strong> Email:</strong>
-    <a href="mailto:nghia_nguyen-huu@cbu.ca" style="color: #0073e6; text-decoration: none;">
+<!-- Email section well-formatted -->
+<p style="font-size: 17px; margin-top: 10px;">
+    <strong>📩:</strong> <br>
+    <a href="mailto:nghia_nguyen-huu@cbu.ca" style="color: #0073e6; font-weight: bold; text-decoration: none;">
         nghia_nguyen-huu@cbu.ca
-    </a>
-    <br>
-    or
-    <a href="mailto:nghia.nguyen-huu@dal.ca" style="color: #0073e6; text-decoration: none;">
+    </a> <br>
+    <span style="font-size: 14px; color: #555;">or</span> <br>
+    <a href="mailto:nghia.nguyen-huu@dal.ca" style="color: #0073e6; font-weight: bold; text-decoration: none;">
         nghia.nguyen-huu@dal.ca
     </a>
 </p>
