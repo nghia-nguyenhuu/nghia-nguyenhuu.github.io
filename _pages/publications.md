@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: <p>
     Publications listed below (*indicates corresponding author).<br>
-    View my <a href="https://scholar.google.com/citations?user=LjcgWVcAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
+    View my <a href="https://scholar.google.com/citations?user=LjcgWVcAAAAJ" target="_blank" rel="noopener noreferrer">
         Google Scholar Profile
     </a>.
 </p>
