@@ -11,11 +11,11 @@
 <p><strong> 2023 Engineering Award, Engineers Nova Scotia</strong></p>
 
 <!-- Added margin-left to move bullet points away from the image -->
-<ul style="padding-left: 30px; margin-left: 20px;">
-    <strong>Ph.D.</strong>, National Cheng Kung University, Taiwan
-    <strong>Erasmus Mundus Master</strong>, Institut National des Sciences Appliquées (INSA) de Lyon, France
-    <strong>Erasmus Mundus Master</strong>, Universitat Politècnica de Catalunya - UPC, Spain
-    <strong>B.Eng.</strong>, Can Tho University, Vietnam
+<ul style="padding-left: 30px; margin-left: 40px;">
+    <li><strong>Ph.D.</strong>, National Cheng Kung University, Taiwan</li>
+    <li><strong>Erasmus Mundus Master</strong>, Institut National des Sciences Appliquées (INSA) de Lyon, France</li>
+    <li><strong>Erasmus Mundus Master</strong>, Universitat Politècnica de Catalunya - UPC, Spain</li>
+    <li><strong>B.Eng.</strong>, Can Tho University, Vietnam</li>
 </ul>
 
 <p><strong> Email:</strong>
