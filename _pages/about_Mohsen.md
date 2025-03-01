@@ -9,12 +9,8 @@
 </p>
 
 <p style="text-align: justify;">
-    I hold a master’s degree in <strong>Electrical Engineering</strong> from
-    <strong>Islamic Azad University of Bandar Abbas</strong>, specializing in
-    renewable energy applications for hydrogen production and energy storage through
-    water electrolysis. My research focuses on <strong>renewable energy storage technologies</strong>,
-    such as hydrogen and lithium-ion batteries, as well as geothermal energy optimization and
-    other renewable energy sources.
+    I hold a master’s degree in Electrical Engineering from
+    Islamic Azad University of Bandar Abbas, specializing in renewable energy applications for hydrogen production and energy storage through water electrolysis. My research focuses on renewable energy storage technologies, such as hydrogen and lithium-ion batteries, as well as geothermal energy optimization and other renewable energy sources.
 </p>
 
 <p style="text-align: justify;">
