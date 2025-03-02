@@ -17,7 +17,8 @@ nav_order: 8
 </div>
 
 <h2><a href="https://www.cbu.ca/">Cape Breton University</a></h2>
-<li><strong>Courses coming soon</strong></li>
+<li><strong>Electronic and Electrical Engineering courses</strong></li>
+<li><strong>Mechanical Engineering courses</strong></li>
 
 
 <h2><a href="https://www.dal.ca/faculty/engineering/electrical.html">Dalhousie University </a></h2>
