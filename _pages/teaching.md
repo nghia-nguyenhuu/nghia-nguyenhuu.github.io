@@ -17,12 +17,10 @@ nav_order: 8
 </div>
 
 <h2><a href="https://www.cbu.ca/">Cape Breton University</a></h2>
-<ul>
-    <li><strong>Courses coming soon</strong></li>
-</ul>
+<li><strong>Courses coming soon</strong></li>
+
 
 <h2><a href="https://www.dal.ca/faculty/engineering/electrical.html">Dalhousie University </a></h2>
-<u1>
 <li> <strong> ECED 4602 Control Systems </strong> </li>
 <p> Winter 2025 (160 students) <p>
 <p> <a href="https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&topicgroupid=37058&entitytype=CID&entitycode=ECED+4602">ECED 4602 course</a> deals with control systems analysis and design aspects. Techniques for analyzing the performance of analog systems are introduced. Emphasis is on the use of the Laplace transform and state space techniques in evaluating system performance indicators including its stability. Tools introduced include frequency response methods, and the root locus. Practical examples involving design of controllers for small systems to achieve desired response are discussed.<p>
@@ -42,10 +40,7 @@ nav_order: 8
 <li> <strong> ECED 3301   Electromagnetic Waves & Propagation </strong> </li>
 <p> Summer 2016 (60 students) </p>
 <p> This course <a href="https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ECED+3301">ECED 3301</a> presents the basic theory and applications of propagation of electromagnetic waves. Major topics include: time-varying Maxwell's equations, electromotive force, electromagnetic spectrum, transmission of plane waves, reflection and refraction, polarization, radiation, transmission line theory, standing wave ratio, Smith Chart, impedance matching, guided wave structures, modes and cut-off frequencies.</p>
-</u1>
 
 <h2><a href="https://www.ctu.edu.vn/">Can Tho University</a></h2>
-<u1>
 <li> <strong> Engineering Vibrations</strong> </li>
 <li> <strong> Heat Transfer</strong> </li>
-</u1>
