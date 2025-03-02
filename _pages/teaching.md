@@ -20,7 +20,7 @@ nav_order: 8
 <li> Electronic and Electrical Engineering courses</li>
 <li> Mechanical Engineering courses</li>
 
-<h2><a href="https://www.dal.ca/faculty/engineering/electrical.html">Dalhousie University </a></h2>
+<h2 style="margin-top: 30px;"><a href="https://www.dal.ca/faculty/engineering/electrical.html">Dalhousie University </a></h2>
 <li> <strong> ECED 4602 Control Systems </strong> </li>
 <p> Winter 2025 (160 students) <p>
 <p> <a href="https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&topicgroupid=37058&entitytype=CID&entitycode=ECED+4602">ECED 4602 course</a> deals with control systems analysis and design aspects. Techniques for analyzing the performance of analog systems are introduced. Emphasis is on the use of the Laplace transform and state space techniques in evaluating system performance indicators including its stability. Tools introduced include frequency response methods, and the root locus. Practical examples involving design of controllers for small systems to achieve desired response are discussed.<p>
