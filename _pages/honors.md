@@ -32,9 +32,11 @@ nav_order: 8
 </u1>
 
 <h3 style="font-size: 18px; margin-bottom: 15px;  margin-top: 25px;"><strong> Volunteer Leadership and Service </strong></h3>
+<u1>
     <li> Associate Editor: Applied Nanoscience, Nature Springer (2022-) </li>
     <li> Associate Editor: Journal of Nanophotonics, SPIE (2020-2023) </li>
     <li> Board of Examiners Member and CPD Committee Member, Engineers Nova Scotia (2016-) </li>
     <li> Conference Chair (ASPIRE and Engineers Nova Scotia Annual Meeting) and SPIE Scholarship Committee Member
     <li> Founder and Principal: Vietnamese School Society in Halifax (2020-)
     <li> Journal reviewer: Optics Express, Nanotechnology, SPIE Journal of Nanophotonics, Optics Communications, IEEE Photonics, IEEE Sensors.. </li>
+</u1>
