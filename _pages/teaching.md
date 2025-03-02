@@ -17,9 +17,8 @@ nav_order: 8
 </div>
 
 <h2><a href="https://www.cbu.ca/">Cape Breton University</a></h2>
-<li><strong>Electronic and Electrical Engineering courses</strong></li>
-<li><strong>Mechanical Engineering courses</strong></li>
-
+<li> Electronic and Electrical Engineering courses</li>
+<li> Mechanical Engineering courses</li>
 
 <h2><a href="https://www.dal.ca/faculty/engineering/electrical.html">Dalhousie University </a></h2>
 <li> <strong> ECED 4602 Control Systems </strong> </li>
