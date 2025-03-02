@@ -18,25 +18,23 @@ nav_order: 8
     Honored to receive the Engineering Award from Engineers Nova Scotia and share my gratitude for this recognition.
 </div>
 
-<h3 style="font-size: 18px; margin-bottom: 15px;"><strong> Awards and Recognitions </strong></h3>
+<h3 style="font-size: 18px; margin-bottom: 15px;  margin-top: 25px;"><strong> Awards and Recognitions </strong></h3>
 <u1>
     <li> <a href="https://engineersnovascotia.ca/news/view/?news.id=254">2023 Engineering Award</a>, Engineers Nova Scotia </li>
     <li> Multiple Best Poster and Oral Presentation Awards for work in optical devices and nanophotonics </li>
     <li> SPIE Travel Grant </li>
     <li> National Science Council of Taiwan Travel Grant </li>
 </u1>
-<h3 style="font-size: 18px; margin-bottom: 15px;"><strong> Professional Memberships </strong></h3>
+<h3 style="font-size: 18px; margin-bottom: 15px;  margin-top: 25px;"><strong> Professional Memberships </strong></h3>
 <u1>
     <li> Licensed Professional Engineer, Engineers Nova Scotia </li>
     <li> Senior Member: SPIE, Optica, and IEEE </li>
 </u1>
 
-<h3 style="font-size: 18px; margin-bottom: 15px;"><strong> Volunteer Leadership and Service </strong></h3>
-<u1>
+<h3 style="font-size: 18px; margin-bottom: 15px;  margin-top: 25px;"><strong> Volunteer Leadership and Service </strong></h3>
     <li> Associate Editor: Applied Nanoscience, Nature Springer (2022-) </li>
     <li> Associate Editor: Journal of Nanophotonics, SPIE (2020-2023) </li>
     <li> Board of Examiners Member and CPD Committee Member, Engineers Nova Scotia (2016-) </li>
     <li> Conference Chair (ASPIRE and Engineers Nova Scotia Annual Meeting) and SPIE Scholarship Committee Member
     <li> Founder and Principal: Vietnamese School Society in Halifax (2020-)
     <li> Journal reviewer: Optics Express, Nanotechnology, SPIE Journal of Nanophotonics, Optics Communications, IEEE Photonics, IEEE Sensors.. </li>
-</u1>
