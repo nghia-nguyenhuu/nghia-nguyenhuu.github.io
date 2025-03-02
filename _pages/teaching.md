@@ -16,8 +16,10 @@ nav_order: 8
     A focused moment in class at Dalhousie University as students engage in learning and problem-solving during one of my lectures.
 </div>
 
-[Cape Breton University](https://www.cbu.ca/)
-<li> <strong> Courses coming soon </strong> </li>
+<h2><a href="https://www.cbu.ca/">Cape Breton University</a></h2>
+<ul>
+    <li><strong>Courses coming soon</strong></li>
+</ul>
 
 <a href="https://www.dal.ca/faculty/engineering/electrical.html">Dalhousie University </a>
 <li> <strong> ECED 4602 Control Systems </strong> </li>
