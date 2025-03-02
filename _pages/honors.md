@@ -39,4 +39,3 @@ nav_order: 8
     <li> Conference Chair (ASPIRE and Engineers Nova Scotia Annual Meeting) and SPIE Scholarship Committee Member
     <li> Founder and Principal: Vietnamese School Society in Halifax (2020-)
     <li> Journal reviewer: Optics Express, Nanotechnology, SPIE Journal of Nanophotonics, Optics Communications, IEEE Photonics, IEEE Sensors.. </li>
-</ul>
