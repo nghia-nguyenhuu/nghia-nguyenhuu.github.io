@@ -21,7 +21,7 @@
 </p>
 
 <!-- Email section well-formatted -->
-<p style="font-size: 16px; margin-top: 10px;">
+<p style="font-size: 16px; margin-top: 0px;">
     📩:
     <a href="mailto:nghia_nguyen-huu@cbu.ca" style="color: inherit; font-weight: normal; text-decoration: none;">
         nghia_nguyen-huu@cbu.ca
