@@ -8,7 +8,7 @@
     Adjunct Faculty, Electrical and Computer Engineering Department, Dalhousie University
 </p>
 
-<p style="font-size: 16px; margin-top: 0px;">
+<p style="font-size: 16px; margin-top: 0px; margin-bottom: 0; line-height: 1;">
     2023 Engineering Award, Engineers Nova Scotia
 </p>
 
