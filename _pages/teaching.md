@@ -41,6 +41,6 @@ nav_order: 8
 <p> Summer 2016 (60 students) </p>
 <p> This course <a href="https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=ECED+3301">ECED 3301</a> presents the basic theory and applications of propagation of electromagnetic waves. Major topics include: time-varying Maxwell's equations, electromotive force, electromagnetic spectrum, transmission of plane waves, reflection and refraction, polarization, radiation, transmission line theory, standing wave ratio, Smith Chart, impedance matching, guided wave structures, modes and cut-off frequencies.</p>
 
-<h2><a href="https://www.ctu.edu.vn/">Can Tho University</a></h2>
+<h2 style="margin-top: 30px;"><a href="https://www.ctu.edu.vn/">Can Tho University</a></h2>
 <li> <strong> Engineering Vibrations</strong> </li>
 <li> <strong> Heat Transfer</strong> </li>
