@@ -9,7 +9,7 @@
 </p>
 
 <p style="font-size: 16px; margin-top: 0px; margin-bottom: 0; line-height: 1;">
-    2023 Engineering Award, Engineers Nova Scotia
+    2023 Engineering Award Recipient, Engineers Nova Scotia
 </p>
 
 <!-- Reformatted education info without bullets -->
