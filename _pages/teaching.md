@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: <p class="justified-text"> My teaching is supported by my <strong>Certificate in University Teaching and Learning from Dalhousie University</strong>, along with my research and industry experience. I emphasize hands-on learning, helping students apply knowledge to real-world problems. Through teamwork and group presentations, I encourage critical thinking, problem-solving, and lifelong learning. My background in mechanical and optoelectronic design allows me to bridge theory and practice, giving students relevant industry expertise. I value diversity and inclusivity, ensuring all students feel supported. By connecting ideas from different subjects, I help students develop essential skills for their future careers. </p>
+description: My teaching is supported by my Certificate in University Teaching and Learning from Dalhousie University, along with my research and industry experience. I emphasize hands-on learning, helping students apply knowledge to real-world problems. Through teamwork and group presentations, I encourage critical thinking, problem-solving, and lifelong learning. My background in mechanical and optoelectronic design allows me to bridge theory and practice, giving students relevant industry expertise. I value diversity and inclusivity, ensuring all students feel supported. By connecting ideas from different subjects, I help students develop essential skills for their future careers.
 nav: true
 nav_order: 8
 
