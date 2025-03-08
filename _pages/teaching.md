@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: My teaching philosophy is backed by my <strong>Certificate in University Teaching and Learning from Dalhousie University</strong>, ensuring a strong foundation in effective teaching methods. I focus on real-world learning that helps students apply knowledge through hands-on tasks and teamwork. I encourage critical thinking, problem-solving, and lifelong learning, guiding students to discover ideas on their own. Inclusivity and diversity are important in my teaching, making sure every student feels valued and supported. By connecting ideas from different subjects, I help students link theory to practice and build the skills they need for success in their careers.
+description: <p class="justified-text"> My teaching is supported by my <strong>Certificate in University Teaching and Learning from Dalhousie University</strong>, along with my research and industry experience. I emphasize hands-on learning, helping students apply knowledge to real-world problems. Through teamwork and group presentations, I encourage critical thinking, problem-solving, and lifelong learning. My background in mechanical and optoelectronic design allows me to bridge theory and practice, giving students relevant industry expertise. I value diversity and inclusivity, ensuring all students feel supported. By connecting ideas from different subjects, I help students develop essential skills for their future careers. </p>
 nav: true
 nav_order: 8
 
