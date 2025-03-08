@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: Our lab is dedicated to interdisciplinary research, welcoming students with diverse backgrounds in materials science, electrical engineering, mechanical engineering, chemical engineering, physics, and mathematics. We focus on driving innovation in renewable energy, optical filtering, and biosensors for applications across high-tech industries, ocean exploration, aerospace, and medicine, fostering collaboration to tackle complex challenges in these fields.
+description: "Our lab, <strong><span style='color: #0056b3;'> Applied Energy Transport Lab </span></strong> (AET Lab) is dedicated to interdisciplinary research, welcoming students with diverse backgrounds in materials science, electrical engineering, mechanical engineering, chemical engineering, physics, and mathematics. We focus on driving innovation in renewable energy, optical filtering, and biosensors for applications across high-tech industries, ocean exploration, aerospace, and medicine, fostering collaboration to tackle complex challenges in these fields."
 nav: true
 nav_order: 7
 
