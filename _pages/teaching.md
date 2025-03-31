@@ -10,7 +10,7 @@ nav_order: 8
 <h2><a href="https://www.cbu.ca/">Cape Breton University</a></h2>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Teaching_2.jpg" title="example image" class="img-fluid rounded z-depth-1" style="width: 50%; height: auto;" %}
+        {% include figure.liquid loading="eager" path="assets/img/Teaching_2.jpg" title="CBU Students" class="img-fluid rounded z-depth-1 w-50" %}
     </div>
 </div>
 <div class="caption">
@@ -24,7 +24,7 @@ nav_order: 8
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Teaching_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Teaching_1.jpg" title="DAL Students" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
