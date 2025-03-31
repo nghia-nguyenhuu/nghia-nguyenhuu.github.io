@@ -8,12 +8,12 @@ nav_order: 8
 
 ---
 <h2><a href="https://www.cbu.ca/">Cape Breton University</a></h2>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.liquid loading="eager" path="assets/img/Teaching_2.jpg" title="CBU Students" class="img-fluid rounded z-depth-1 w-50" %}
     </div>
 </div>
-<div class="caption">
+<div class="caption text-center mt-2">
     Proud to learn and grow alongside these dedicated students
 </div>
 
