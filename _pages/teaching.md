@@ -10,11 +10,11 @@ nav_order: 8
 <h2><a href="https://www.cbu.ca/">Cape Breton University</a></h2>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Teaching_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Teaching_2.jpg" title="example image" class="img-fluid rounded z-depth-1" style="width: 50%; height: auto;" %}
     </div>
 </div>
 <div class="caption">
-    Proud to learn and grow alongside these dedicated students.
+    Proud to learn and grow alongside these dedicated students
 </div>
 
 <li> Electronic and Electrical Engineering courses</li>
