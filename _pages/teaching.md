@@ -22,12 +22,12 @@ nav_order: 8
 
 <h2 style="margin-top: 30px;"><a href="https://www.dal.ca/faculty/engineering/electrical.html">Dalhousie University </a></h2>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Teaching_1.jpg" title="DAL Students" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.liquid loading="eager" path="assets/img/Teaching_2.jpg" title="CBU Students" class="img-fluid rounded z-depth-1 w-75" %}
     </div>
 </div>
-<div class="caption">
+<div class="caption text-center mt-2">
     A focused moment in class at Dalhousie University as students engage in learning and problem-solving during one of my lectures.
 </div>
 
