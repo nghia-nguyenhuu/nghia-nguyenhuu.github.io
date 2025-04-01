@@ -24,7 +24,7 @@ nav_order: 8
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.liquid loading="eager" path="assets/img/Teaching_2.jpg" title="CBU Students" class="img-fluid rounded z-depth-1 w-75" %}
+        {% include figure.liquid loading="eager" path="assets/img/Teaching_1.jpg" title="CBU Students" class="img-fluid rounded z-depth-1 w-75" %}
     </div>
 </div>
 <div class="caption text-center mt-2">
