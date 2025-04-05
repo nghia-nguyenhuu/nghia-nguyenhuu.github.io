@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 <p>
-  <img src="https://www.ieee.org/content/dam/ieee-org/ieee/web/org/ieee-logo.png"
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/IEEE_logo.svg/2560px-IEEE_logo.svg.png"
        alt="IEEE Logo"
        style="height: 28px; vertical-align: middle; margin-right: 8px;" />
 I’m happy to share that I have been appointed as the Chair of the Student Activities Committee (SAC) in the IEEE Canadian Atlantic Section (Region 7) for 2025.
