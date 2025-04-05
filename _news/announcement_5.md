@@ -10,7 +10,7 @@ related_posts: false
        alt="IEEE Logo"
        style="height: 28px; vertical-align: middle; margin-right: 8px;" />
 
-I’m happy to share that I have been appointed as the Chair of the Student Activities Committee (SAC) in the IEEE Canadian Atlantic Section (Region 7) for 2025.
+I’m happy to share that I have been appointed as the <strong> Chair of the Student Activities Committee (SAC) </strong> in the IEEE Canadian Atlantic Section (Region 7) for 2025.
 
 In this role, I will establish the Cape Breton University's IEEE student branch, help connect students across campuses, and encourage young engineers. I’m excited to work with the IEEE community and support student success in our region.
 </p>
