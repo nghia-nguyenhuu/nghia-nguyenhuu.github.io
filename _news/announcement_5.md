@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 <p>
-  <img src="/assets/img/Ieee_blue.png"
+  <img src="/assets/img/Ieee_blue.jpg"
        alt="IEEE Logo"
        style="height: 28px; vertical-align: middle; margin-right: 8px;" />
 
@@ -18,7 +18,7 @@ Thank you to Dr. Muhammad Usman Asad, chair of the IEEE Canadian Atlantic Sectio
 </p>
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="/assets/img/ieee_atlantic.jpg"
+  <img src="/assets/img/ieee atlantic.jpg"
        alt="IEEE Canadian Atlantic Section Logo"
        style="max-width: 300px; height: auto; border-radius: 10px;" />
 </div>
