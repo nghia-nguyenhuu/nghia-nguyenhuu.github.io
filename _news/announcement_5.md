@@ -13,5 +13,5 @@ Thank you to Dr. Muhammad Usman Asad, chair of the IEEE Canadian Atlantic Sectio
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IEEE_Atlantic.jpg" title="IEEE" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ieee atlantic.jpg" title="IEEE" class="img-fluid rounded z-depth-1" %}
     </div>
