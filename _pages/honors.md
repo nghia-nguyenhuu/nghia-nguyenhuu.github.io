@@ -33,6 +33,8 @@ nav_order: 8
 
 <h3 style="font-size: 18px; margin-bottom: 15px;  margin-top: 25px;"><strong> Volunteer Leadership and Service </strong></h3>
 <ul>
+    <li> Chair of IEEE Student Activities Committee and Vice-chair of IEEE SMC chapter (2025-) </li>
+    <li> Research Ethics Board (REB) Member, Cape Breton University (2025-) </li>
     <li> Associate Editor: Applied Nanoscience, Nature Springer (2022-) </li>
     <li> Associate Editor: Journal of Nanophotonics, SPIE (2020-2023) </li>
     <li> Board of Examiners Member and CPD Committee Member, Engineers Nova Scotia (2016-) </li>
