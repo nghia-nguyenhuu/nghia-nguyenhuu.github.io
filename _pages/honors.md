@@ -28,12 +28,14 @@ nav_order: 8
     <li> PhD Fellowship, National Synchrotron Radiation Research Center, Taiwan, 2008 </li>
     <li> PhD Fellowship, National Cheng Kung University, 2008 </li>
     <li> PhD Fellowship (declined), Ministry of Education of Taiwan, 2008 </li>
-    <li> Erasmus Mundus Master Scholarship, Education & Culture of European Commission,2005 </li>
+    <li> Erasmus Mundus Master Scholarship, Education & Culture of European Commission, 2005 </li>
 </ul>
 <h3 style="font-size: 18px; margin-bottom: 15px;  margin-top: 25px;"><strong> Professional Memberships </strong></h3>
 <ul>
     <li> Licensed Professional Engineer, Engineers Nova Scotia </li>
-    <li> Senior Member: SPIE, Optica, and IEEE </li>
+    <li> Senior Member of the International Society for Optics and Photonics (SPIE) </li>
+    <li> Senior Member of Optical Society of America (OPTICA) </li>
+    <li> Senior Member of Institute of Electrical and Electronics Engineers (IEEE) </li>
 </ul>
 
 <h3 style="font-size: 18px; margin-bottom: 15px;  margin-top: 25px;"><strong> Volunteer Leadership and Service </strong></h3>
