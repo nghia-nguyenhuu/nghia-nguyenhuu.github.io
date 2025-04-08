@@ -22,8 +22,13 @@ nav_order: 8
 <ul>
     <li> <a href="https://engineersnovascotia.ca/news/view/?news.id=254">2023 Engineering Award</a>, Engineers Nova Scotia </li>
     <li> Multiple Best Poster and Oral Presentation Awards for work in optical devices and nanophotonics </li>
-    <li> SPIE Travel Grant </li>
-    <li> National Science Council of Taiwan Travel Grant </li>
+    <li> NSERC Visiting Fellowship (pre-approved applicant), 2016 </li>
+    <li> SPIE Photonics Europe Conference Travel Award, Brussels, Belgium, 2014 </li>
+    <li> National Science Council of Taiwan Travel Grant, 2011 </li>
+    <li> PhD Fellowship, National Synchrotron Radiation Research Center, Taiwan, 2008 </li>
+    <li> PhD Fellowship, National Cheng Kung University, 2008 </li>
+    <li> PhD Fellowship (declined), Ministry of Education of Taiwan, 2008 </li>
+    <li> Erasmus Mundus Master Scholarship, Education & Culture of European Commission,2005 </li>
 </ul>
 <h3 style="font-size: 18px; margin-bottom: 15px;  margin-top: 25px;"><strong> Professional Memberships </strong></h3>
 <ul>
