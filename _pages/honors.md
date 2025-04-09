@@ -48,12 +48,12 @@ nav_order: 8
     <li> Associate Editor: Journal of Nanophotonics, SPIE (2020-2023) </li>
     <li> Topic Editor of MDPI Photonics, Switzerland (2020-2022)
     <li> Panel Judge, 8th Annual Engineering Capstone Conference at Dalhousie University </li>
-    <li> International Technical Committee Member, 1st Colloquium on Optics Fiber Devices and Sensing Applications (12th IEEE/IET International Symposium on COMMUNICATION SYSTEMS, NETWORKS & DIGITAL SIGNA PROCESSING), July 2020 at Porto, Portugal </li>
+    <li> International Technical Committee Member, 1st Colloquium on Optics Fiber Devices and Sensing Applications (12th IEEE/IET International Symposium on Communication Systems, Networks & DigitaL Signal Progressing), July 2020 at Porto, Portugal </li>
     <li> Mentor of Engineers-in-Training, Engineers Nova Scotia (2018-) </li>
     <li> Board of Examiners Member and CPD Committee Member, Engineers Nova Scotia (2016-) </li>
     <li> Conference Chair (ASPIRE and Engineers Nova Scotia Annual Meeting) </li>
-    <li> SPIE Scholarship Committee Member </li>
-    <li> Committee member of OSA Ivan P. Kaminow Outstanding Young Professional Prize </li>
-    <li> Committee member of OSA Student Chapter Excellent Prize </li>
+    <li> Committee Member, SPIE Scholarship Program (awarded scholarships of USD 11,000 and USD 10,000) </li>
+    <li> Committee member, OSA Ivan P. Kaminow Outstanding Young Professional Prize </li>
+    <li> Committee member, OSA Student Chapter Excellent Prize </li>
     <li> Founder and Principal: Vietnamese School Society in Halifax (2021-)
     <li> Journal reviewer: Optics Express, Nanotechnology, SPIE Journal of Nanophotonics, Optics Communications, IEEE Photonics, IEEE Sensors, Energies, Nanomaterials, ASME Journal of Heat Transfer, Physica Scripta, JOSA A, Infrared Physics and Technology, Physics D: Applied Physics, Optics Letters, JOSA B, Applied Physics Letters, Optical Materials Express, Journal of Optics, SPIE Optical Engineering and Applied Optics </li>
