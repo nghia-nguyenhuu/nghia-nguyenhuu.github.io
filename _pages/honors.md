@@ -44,8 +44,8 @@ nav_order: 8
 <ul>
     <li> Chair of IEEE Student Activities Committee and Vice-chair of IEEE SMC chapter (2025-) </li>
     <li> Research Ethics Board (REB) Member, Cape Breton University (2025-) </li>
-    <li> Associate Editor: Applied Nanoscience, Nature Springer (2022-) </li>
-    <li> Associate Editor: Journal of Nanophotonics, SPIE (2020-2023) </li>
+    <li> Associate Editor, Applied Nanoscience, Nature Springer (2022-) </li>
+    <li> Associate Editor, Journal of Nanophotonics, SPIE (2020-2023) </li>
     <li> Topic Editor of MDPI Photonics, Switzerland (2020-2022)
     <li> Panel Judge, 8th Annual Engineering Capstone Conference at Dalhousie University </li>
     <li> International Technical Committee Member, 1st Colloquium on Optics Fiber Devices and Sensing Applications (12th IEEE/IET International Symposium on Communication Systems, Networks & DigitaL Signal Progressing), July 2020 at Porto, Portugal </li>
