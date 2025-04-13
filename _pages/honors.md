@@ -22,7 +22,7 @@ nav_order: 8
 <ul>
     <li> <a href="https://engineersnovascotia.ca/news/view/?news.id=254">2023 Engineering Award</a>, Engineers Nova Scotia </li>
     <li> Multiple Best Poster and Oral Presentation Awards for work in optical devices and nanophotonics </li>
-    <li> NSERC Visiting Fellowship (pre-approved applicant), 2016 </li>
+    <li> Natural Sciences and Engineering Research Council of Canada (NSERC) Visiting Fellowship (pre-approved applicant), 2016 </li>
     <li> SPIE Photonics Europe Conference Travel Award, Brussels, Belgium, 2014 </li>
     <li> Postdoctoral Fellowship in ASPIRE/NSERC (Applied Science in Photonics and Innovative Research in Engineering) program, Dalhousie University, Canada, 2013-2017</li>
     <li> Postdoctoral Fellowship, Technical University of Ostrava, Czech Republic, 2014</li>
