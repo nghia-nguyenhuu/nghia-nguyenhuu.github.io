@@ -56,4 +56,4 @@ nav_order: 8
     <li> Committee member, OSA Ivan P. Kaminow Outstanding Young Professional Prize </li>
     <li> Committee member, OSA Student Chapter Excellent Prize </li>
     <li> Founder and Principal: Vietnamese School Society in Halifax (2021-)
-    <li> Journal reviewer: Optics Express, Nanotechnology, SPIE Journal of Nanophotonics, Optics Communications, IEEE Photonics, IEEE Sensors, Energies, Nanomaterials, ASME Journal of Heat Transfer, Physica Scripta, JOSA A, Infrared Physics and Technology, Physics D: Applied Physics, Optics Letters, JOSA B, Applied Physics Letters, Optical Materials Express, Journal of Optics, SPIE Optical Engineering and Applied Optics </li>
+    <li> Journal reviewer: Optics Express, Nanotechnology, SPIE Journal of Nanophotonics, Optics Communications, IEEE Photonics, IEEE Sensors, Energies, Nanomaterials, ASME Journal of Heat Transfer, Physica Scripta, JOSA A, Infrared Physics and Technology, Physics D: Applied Physics, Optics Letters, JOSA B, Applied Physics Letters, Optical Materials Express, Journal of Optics, SPIE Optical Engineering, Applied Optics and Scientific Reports Nature </li>
