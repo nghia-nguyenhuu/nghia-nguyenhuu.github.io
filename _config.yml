@@ -111,10 +111,9 @@ x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note: >
+contact_note: |
   Best way to reach me is via E-mail!
-Cape Breton University is in Mi’kma’ki, the traditional and unceded land of the
-Mi’kmaq People. We are all Treaty people.
+Cape Breton University and Dalhousie are in Mi’kma’ki, the traditional and unceded land of the Mi’kmaq People. We are all Treaty people.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
