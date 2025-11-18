@@ -6,9 +6,6 @@ inline: false
 related_posts: false
 ---
 <p>
-  <img src="/assets/img/Ieee_blue.jpg"
-       alt="IEEE Logo"
-       style="height: 28px; vertical-align: middle; margin-right: 8px;" />
 Hi Folks,
 
 I'd like to invite you to the first-time information session in CBU for the Institute of Electrical and Electronics Engineers (IEEE) — a world-leading professional organization in engineering and technology.
