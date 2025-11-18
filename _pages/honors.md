@@ -44,13 +44,14 @@ nav_order: 8
 <ul>
     <li> Chair of IEEE Student Activities Committee and Vice-chair of IEEE SMC chapter (2025-) </li>
     <li> Research Ethics Board (REB) Member, Cape Breton University (2025-) </li>
+    <li> Board of Examiners Member, Engineers Nova Scotia (2024-) </li>
     <li> Associate Editor, Applied Nanoscience, Nature Springer (2022-) </li>
     <li> Associate Editor, Journal of Nanophotonics, SPIE (2020-2023) </li>
     <li> Topic Editor of MDPI Photonics, Switzerland (2020-2022)
     <li> Panel Judge, 8th Annual Engineering Capstone Conference at Dalhousie University </li>
     <li> International Technical Committee Member, 1st Colloquium on Optics Fiber Devices and Sensing Applications (12th IEEE/IET International Symposium on Communication Systems, Networks & DigitaL Signal Progressing), July 2020 at Porto, Portugal </li>
     <li> Mentor of Engineers-in-Training, Engineers Nova Scotia (2018-) </li>
-    <li> Board of Examiners Member and CPD Committee Member, Engineers Nova Scotia (2016-) </li>
+    <li> CPD Committee Member, Engineers Nova Scotia (2016-) </li>
     <li> Conference Chair (ASPIRE and Engineers Nova Scotia Annual Meeting) </li>
     <li> Committee Member, SPIE Scholarship Program (awarded scholarships of USD 11,000 and USD 10,000) </li>
     <li> Committee member, OSA Ivan P. Kaminow Outstanding Young Professional Prize </li>
