@@ -33,14 +33,24 @@ We’re looking forward to meeting you there!
 <p>Thank you,<br>
  Nghia</p>
 
-<div style="text-align: center; margin-top: 20px;">
-<img src="/assets/img/IEEE_CBU.jpg"
-alt="IEEE CBU poster"
-style="max-width: 400px; height: auto; border-radius: 10px;" />
-</div>
+ <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px; flex-wrap: wrap;">
 
-<div style="text-align: center; margin-top: 20px;">
-<img src="/assets/img/IEEE_CBU_student.jpg"
-alt="IEEE CBU event"
-style="max-width: 400px; height: auto; border-radius: 10px;" />
-</div>
+   <figure style="margin: 0; text-align: center;">
+     <img src="/assets/img/IEEE_CBU.jpg"
+          alt="IEEE CBU poster"
+          style="width: 400px; max-width: 100%; height: auto; border-radius: 10px;" />
+     <figcaption style="margin-top: 8px; font-size: 14px; color: #555;">
+       IEEE CBU Poster
+     </figcaption>
+   </figure>
+
+   <figure style="margin: 0; text-align: center;">
+     <img src="/assets/img/IEEE_CBU_student.jpg"
+          alt="IEEE CBU event"
+          style="width: 400px; max-width: 100%; height: auto; border-radius: 10px;" />
+     <figcaption style="margin-top: 8px; font-size: 14px; color: #555;">
+       IEEE CBU Event (Students)
+     </figcaption>
+   </figure>
+
+ </div>
