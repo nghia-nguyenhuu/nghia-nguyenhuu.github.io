@@ -10,7 +10,7 @@ nav_order: 8
 <h2><a href="https://www.cbu.ca/">Cape Breton University</a></h2>
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.liquid loading="eager" path="assets/img/Fall_25.jpg" title="CBU Students" class="img-fluid rounded z-depth-1 w-75" %}
+        {% include figure.liquid loading="eager" path="assets/img/Fall_25.jpg" title="CBU Students" class="img-fluid rounded z-depth-1 w-65" %}
     </div>
 </div>
 <div class="caption text-center mt-2">
@@ -18,7 +18,7 @@ nav_order: 8
 </div>
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.liquid loading="eager" path="assets/img/Teaching_2.jpg" title="CBU Students" class="img-fluid rounded z-depth-1 w-75" %}
+        {% include figure.liquid loading="eager" path="assets/img/Teaching_2.jpg" title="CBU Students" class="img-fluid rounded z-depth-1 w-65" %}
     </div>
 </div>
 <div class="caption text-center mt-2">
@@ -32,7 +32,7 @@ nav_order: 8
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.liquid loading="eager" path="assets/img/Teaching_1.jpg" title="Dal Students" class="img-fluid rounded z-depth-1 w-75" %}
+        {% include figure.liquid loading="eager" path="assets/img/Teaching_1.jpg" title="Dal Students" class="img-fluid rounded z-depth-1 w-65" %}
     </div>
 </div>
 <div class="caption text-center mt-2">
