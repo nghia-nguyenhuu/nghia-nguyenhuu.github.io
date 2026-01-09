@@ -38,3 +38,9 @@ We’re looking forward to meeting you there!
 alt="IEEE CBU poster"
 style="max-width: 400px; height: auto; border-radius: 10px;" />
 </div>
+
+<div style="text-align: center; margin-top: 20px;">
+<img src="/assets/img/IEEE_CBU_student.jpg"
+alt="IEEE CBU event"
+style="max-width: 400px; height: auto; border-radius: 10px;" />
+</div>
