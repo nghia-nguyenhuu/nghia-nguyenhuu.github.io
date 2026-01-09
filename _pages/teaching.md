@@ -8,21 +8,27 @@ nav_order: 8
 
 ---
 <h2><a href="https://www.cbu.ca/">Cape Breton University</a></h2>
-<div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.liquid loading="eager" path="assets/img/Fall_25.jpg" title="CBU Students" class="img-fluid rounded z-depth-1 w-85" %}
+
+<div class="row justify-content-center mt-3">
+  <div class="col-md-4 text-center">
+    {% include figure.liquid
+       loading="eager"
+       path="assets/img/Fall_25.jpg"
+       title="CBU Students"
+       class="img-fluid rounded z-depth-1 w-100" %}
+    <div class="caption mt-2">Our Fall Class 2025</div>
+  </div>
+
+  <div class="col-md-4 text-center">
+    {% include figure.liquid
+       loading="eager"
+       path="assets/img/Teaching_2.jpg"
+       title="CBU Students"
+       class="img-fluid rounded z-depth-1 w-100" %}
+    <div class="caption mt-2">
+      Proud to learn and grow alongside these dedicated students (Winter Class 2025)
     </div>
-</div>
-<div class="caption text-center mt-2">
-    Our Fall Class 2025
-</div>
-<div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.liquid loading="eager" path="assets/img/Teaching_2.jpg" title="CBU Students" class="img-fluid rounded z-depth-1 w-85" %}
-    </div>
-</div>
-<div class="caption text-center mt-2">
-    Proud to learn and grow alongside these dedicated students (Winter Class 2025)
+  </div>
 </div>
 
 <li> Electronic and Electrical Engineering courses</li>
