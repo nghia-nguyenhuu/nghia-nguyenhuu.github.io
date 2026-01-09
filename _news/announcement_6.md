@@ -33,33 +33,67 @@ We’re looking forward to meeting you there!
 <p>Thank you,<br>
  Nghia</p>
 
- <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px; flex-wrap: wrap;">
+ <div class="ieee-grid-2col">
 
-  <figure style="margin: 0; text-align: center;">
-    <img src="/assets/img/IEEE_CBU.jpg"
-         alt="IEEE CBU poster"
-         style="width: 400px; max-width: 100%; height: auto; border-radius: 10px;" />
-    <figcaption style="margin-top: 8px; font-size: 14px; color: #555;">
-      IEEE CBU Poster
-    </figcaption>
+  <!-- LEFT COLUMN: IEEE POSTER -->
+  <figure class="ieee-fig">
+    <img class="ieee-img" src="/assets/img/IEEE_CBU.jpg" alt="IEEE CBU poster">
+    <figcaption class="ieee-cap">IEEE CBU Poster</figcaption>
   </figure>
 
-  <figure style="margin: 0; text-align: center;">
-    <img src="/assets/img/IEEE_CBU_student.jpg"
-         alt="IEEE CBU event"
-         style="width: 400px; max-width: 100%; height: auto; border-radius: 10px;" />
-    <figcaption style="margin-top: 8px; font-size: 14px; color: #555;">
-      IEEE CBU Event (Students)
-    </figcaption>
-  </figure>
+  <!-- RIGHT COLUMN: TWO STACKED IMAGES -->
+  <div class="ieee-stack">
 
-  <figure style="margin: 0; text-align: center;">
-    <img src="/assets/img/IEEE_CBU_student2.jpg"
-         alt="IEEE CBU event students"
-         style="width: 400px; max-width: 100%; height: auto; border-radius: 10px;" />
-    <figcaption style="margin-top: 8px; font-size: 14px; color: #555;">
-      IEEE CBU Event (Discussion & Engagement)
-    </figcaption>
-  </figure>
+    <figure class="ieee-fig">
+      <img class="ieee-img" src="/assets/img/IEEE_CBU_student.jpg" alt="IEEE CBU event students">
+      <figcaption class="ieee-cap">IEEE CBU Event (Students)</figcaption>
+    </figure>
+
+    <figure class="ieee-fig">
+      <img class="ieee-img" src="/assets/img/IEEE_CBU_student2.jpg" alt="IEEE CBU event discussion">
+      <figcaption class="ieee-cap">IEEE CBU Event (Discussion &amp; Engagement)</figcaption>
+    </figure>
+
+  </div>
 
 </div>
+
+<style>
+  .ieee-grid-2col{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap:20px;
+    margin-top:20px;
+    align-items:start;
+  }
+
+  .ieee-stack{
+    display:grid;
+    gap:20px;
+    justify-items:center;
+  }
+
+  .ieee-fig{
+    margin:0;
+    text-align:center;
+  }
+
+  .ieee-img{
+    width:100%;
+    max-width:520px;
+    height:auto;
+    border-radius:10px;
+    display:block;
+    margin:0 auto;
+  }
+
+  .ieee-cap{
+    margin-top:8px;
+    font-size:14px;
+    color:#555;
+  }
+
+  @media (max-width: 900px){
+    .ieee-grid-2col{ grid-template-columns: 1fr; }
+  }
+</style>
