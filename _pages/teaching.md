@@ -26,7 +26,7 @@ nav_order: 8
        title="CBU Students"
        class="img-fluid rounded z-depth-1 w-100" %}
     <div class="caption mt-2">
-      Proud to learn and grow alongside these dedicated students (Winter Class 2025)
+      Our Winter Class 2025
     </div>
   </div>
 </div>
@@ -34,15 +34,24 @@ nav_order: 8
 <li> Electronic and Electrical Engineering courses</li>
 <li> Mechanical Engineering courses</li>
 
-<h2 style="margin-top: 30px;"><a href="https://www.dal.ca/faculty/engineering/electrical.html">Dalhousie University </a></h2>
+<h2 style="margin-top: 30px;">
+  <a href="https://www.dal.ca/faculty/engineering/electrical.html">
+    Dalhousie University
+  </a>
+</h2>
 
-<div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.liquid loading="eager" path="assets/img/Teaching_1.jpg" title="Dal Students" class="img-fluid rounded z-depth-1 w-85" %}
+<div class="row justify-content-center mt-3">
+  <div class="col-md-4 text-center">
+    {% include figure.liquid
+       loading="eager"
+       path="assets/img/Teaching_1.jpg"
+       title="Dal Students"
+       class="img-fluid rounded z-depth-1 w-100" %}
+
+    <div class="caption text-center mt-2">
+      A focused moment in class at Dalhousie University as students engage in learning and problem-solving during one of my lectures.
     </div>
-</div>
-<div class="caption text-center mt-2">
-    A focused moment in class at Dalhousie University as students engage in learning and problem-solving during one of my lectures.
+  </div>
 </div>
 
 <li> <strong> ECED 4602 Control Systems </strong> </li>
