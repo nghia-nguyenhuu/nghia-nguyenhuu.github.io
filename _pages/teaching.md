@@ -8,6 +8,30 @@ nav_order: 8
 
 ---
 <h2><a href="https://www.cbu.ca/">Cape Breton University</a></h2>
+<div class="row justify-content-center mt-3">
+  <div class="col-md-4 text-center">
+    {% include figure.liquid
+       loading="eager"
+       path="assets/img/Winter_2026.jpg"
+       title="CBU Students"
+       class="img-fluid rounded z-depth-1 w-100" %}
+    <div class="caption mt-2">Our Hardworking Students</div>
+  </div>
+
+  <div class="col-md-4 text-center">
+    {% include figure.liquid
+       loading="eager"
+       path="assets/img/Winter_2026_1.jpg"
+       title="Students working in Lab"
+       class="img-fluid rounded z-depth-1 w-100" %}
+    <div class="caption mt-2">
+      Students working in Lab
+    </div>
+  </div>
+</div>
+
+
+
 
 <div class="row justify-content-center mt-3">
   <div class="col-md-4 text-center">
