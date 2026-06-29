@@ -8,7 +8,7 @@ related_posts: false
 <p>
   <img src="/assets/img/PMP.jpg"
        alt="PMP"
-       style="height: 28px; vertical-align: middle; margin-right: 8px;" />
+       style="height: 45px; vertical-align: middle; margin-right: 8px;" />
 <p>Hi everyone,</p>
 
 <p>
@@ -19,5 +19,5 @@ This achievement strengthens my knowledge and skills in project management, lead
 <div style="text-align: center; margin-top: 20px;">
   <img src="/assets/img/PMP.jpg"
        alt="PMP Badge"
-       style="max-width: 400px; height: auto; border-radius: 10px;" />
+       style="max-width: 280px; height: auto; border-radius: 10px;" />
 </div>
