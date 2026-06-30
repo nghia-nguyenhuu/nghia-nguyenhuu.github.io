@@ -21,10 +21,10 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info:
 
-    - align: left
-      image: Tri.jpg
-      content: about_Tri.md
-      image_circular: true # crops the image to make it circular
-      more_info:
+  - align: left
+    image: Tri.jpg
+    content: about_Tri.md
+    image_circular: true # crops the image to make it circular
+    more_info:
 
 ---
