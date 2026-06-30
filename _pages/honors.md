@@ -34,6 +34,7 @@ nav_order: 8
 </ul>
 <h3 style="font-size: 18px; margin-bottom: 15px;  margin-top: 25px;"><strong> Professional Memberships </strong></h3>
 <ul>
+    <li> Project Management Professional (PMP) Certification, PMI </li>
     <li> Licensed Professional Engineer, Engineers Nova Scotia </li>
     <li> Senior Member of the International Society for Optics and Photonics (SPIE) </li>
     <li> Senior Member of Optical Society of America (OPTICA) </li>
