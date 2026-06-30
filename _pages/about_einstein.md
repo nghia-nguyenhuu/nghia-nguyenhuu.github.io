@@ -1,6 +1,6 @@
 <h1 style="margin-bottom: 5px; font-size: 28px;">
     <span style="display: inline-block;">Nghia Nguyen-Huu,</span>
-    <span style="display: inline-block;">Ph.D., P.Eng.</span>
+    <span style="display: inline-block;">PhD, PMP, PEng</span>
 </h1>
 
 <p style="margin-top: 0; font-size: 16px; color: #555;">
