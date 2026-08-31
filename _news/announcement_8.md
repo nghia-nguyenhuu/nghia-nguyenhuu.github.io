@@ -6,10 +6,6 @@ inline: false
 related_posts: false
 ---
 <p>
-  <img src="/assets/img/PMP.jpg"
-       alt="PMP"
-       style="height: 45px; vertical-align: middle; margin-right: 8px;" />
-<p>Hi everyone,</p>
 
 <p>
 I’m pleased to share that I have been re-appointed as an Adjunct (FGS) Faculty Member starting from July 2026 in the Department of Electrical and Computer Engineering at Dalhousie University.
