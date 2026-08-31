@@ -25,7 +25,7 @@ nav_order: 8
        title="Students working in Lab"
        class="img-fluid rounded z-depth-1 w-100" %}
     <div class="caption mt-2">
-      Students working in Lab
+      Students Working in Lab
     </div>
   </div>
 </div>
